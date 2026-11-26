@@ -1,5 +1,0 @@
-gate,endpoint,delta_percentage_points,ci_low,ci_high
-demo-gate,success,0.0,0.0,0.0
-demo-gate,authorized_violation,-62.5,-79.16666666666667,-41.666666666666664
-policy-gate,success,0.0,0.0,0.0
-policy-gate,authorized_violation,-75.0,-91.66666666666667,-58.333333333333336

@@ -1,6 +1,0 @@
-{
-  "rotation_translation_max_m": 3.0531133177191805e-16,
-  "passive_relabel_max_m": 0.0,
-  "train": 1400,
-  "test_per_split": 480
-}

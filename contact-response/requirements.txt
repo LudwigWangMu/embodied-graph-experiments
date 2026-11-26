@@ -1,5 +1,0 @@
-numpy==2.5.5
-matplotlib==3.11.2
-pymunk==6.6.0
-torch==2.15.0
-mujoco==3.3.7
