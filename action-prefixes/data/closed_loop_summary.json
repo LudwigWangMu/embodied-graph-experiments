@@ -1,0 +1,54 @@
+{
+  "q_demonstrations": 6.317044340370679,
+  "q_fixed_policy": 12.991439210611219,
+  "fixed1": {
+    "success": 5,
+    "peak": 0.7650030488670364,
+    "total_steps": 9263,
+    "calls": 9263,
+    "authorized_steps": 9263,
+    "fallback": 0,
+    "violating": 1,
+    "all_executed_violating": 1
+  },
+  "fixed4": {
+    "success": 6,
+    "peak": 0.8217307237114612,
+    "total_steps": 9259,
+    "calls": 2317,
+    "authorized_steps": 9259,
+    "fallback": 0,
+    "violating": 29,
+    "all_executed_violating": 29
+  },
+  "fixed8": {
+    "success": 8,
+    "peak": 0.808479891888536,
+    "total_steps": 9321,
+    "calls": 1170,
+    "authorized_steps": 9321,
+    "fallback": 0,
+    "violating": 50,
+    "all_executed_violating": 50
+  },
+  "demo-gate": {
+    "success": 6,
+    "peak": 0.792839092429716,
+    "total_steps": 9299,
+    "calls": 2694,
+    "authorized_steps": 9299,
+    "fallback": 0,
+    "violating": 15,
+    "all_executed_violating": 15
+  },
+  "policy-gate": {
+    "success": 7,
+    "peak": 0.7894095749295212,
+    "total_steps": 9143,
+    "calls": 5042,
+    "authorized_steps": 9112,
+    "fallback": 31,
+    "violating": 2,
+    "all_executed_violating": 2
+  }
+}

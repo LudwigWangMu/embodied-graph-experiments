@@ -1,0 +1,26 @@
+{
+  "model": "lerobot/diffusion_pusht",
+  "revision": "84a7c23178445c6bbf7e1a884ff497017910f653",
+  "ddpm_steps": 100,
+  "calibration_q": 8.576081403217183,
+  "results": {
+    "fixed8": {
+      "success": 2,
+      "peak_overlap": 0.6654926187607924,
+      "violating": 21,
+      "all_violating": 21,
+      "steps": 2808,
+      "calls": 352,
+      "fallback": 0
+    },
+    "policy-gate": {
+      "success": 3,
+      "peak_overlap": 0.5767236135539163,
+      "violating": 0,
+      "all_violating": 0,
+      "steps": 2791,
+      "calls": 1108,
+      "fallback": 0
+    }
+  }
+}

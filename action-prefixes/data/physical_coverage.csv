@@ -1,0 +1,49 @@
+seed,method,q,simultaneously_covered,episodes
+2048,Always eight,0.0,0,60
+2048,Pooled windows,2.5223870167380182,26,60
+2048,"Episode, flat scale",5.345038647475086,51,60
+2048,"Episode, graph scale",5.29534116240103,53,60
+2049,Always eight,0.0,0,60
+2049,Pooled windows,2.3926440225714374,40,60
+2049,"Episode, flat scale",4.538609317310609,57,60
+2049,"Episode, graph scale",4.266968394852367,51,60
+2050,Always eight,0.0,0,60
+2050,Pooled windows,2.7746481734203785,37,60
+2050,"Episode, flat scale",5.640265352271125,55,60
+2050,"Episode, graph scale",5.034016539995135,57,60
+2051,Always eight,0.0,0,60
+2051,Pooled windows,2.604712622067704,23,60
+2051,"Episode, flat scale",4.857274492636548,47,60
+2051,"Episode, graph scale",4.458361430292438,48,60
+2052,Always eight,0.0,0,60
+2052,Pooled windows,2.6804316326995163,35,60
+2052,"Episode, flat scale",5.2950085897063195,60,60
+2052,"Episode, graph scale",4.52767144993665,53,60
+2053,Always eight,0.0,0,60
+2053,Pooled windows,2.791049298497546,26,60
+2053,"Episode, flat scale",6.084805676340069,56,60
+2053,"Episode, graph scale",5.521749659379571,57,60
+2054,Always eight,0.0,0,60
+2054,Pooled windows,2.576183855969738,32,60
+2054,"Episode, flat scale",5.642203758819683,54,60
+2054,"Episode, graph scale",5.34735965077653,56,60
+2055,Always eight,0.0,0,60
+2055,Pooled windows,2.8461739202815948,32,60
+2055,"Episode, flat scale",6.196644176251382,57,60
+2055,"Episode, graph scale",5.974651025419627,60,60
+2056,Always eight,0.0,0,60
+2056,Pooled windows,2.3885062098053917,30,60
+2056,"Episode, flat scale",5.162429270981333,57,60
+2056,"Episode, graph scale",4.972107846529959,56,60
+2057,Always eight,0.0,0,60
+2057,Pooled windows,2.9087644833596635,29,60
+2057,"Episode, flat scale",5.784891937832823,54,60
+2057,"Episode, graph scale",5.565130029153818,55,60
+2058,Always eight,0.0,0,60
+2058,Pooled windows,2.4114651341234117,33,60
+2058,"Episode, flat scale",4.705141926389939,53,60
+2058,"Episode, graph scale",4.176807268188815,52,60
+2059,Always eight,0.0,0,60
+2059,Pooled windows,2.279734087262274,35,60
+2059,"Episode, flat scale",4.504707020024774,55,60
+2059,"Episode, graph scale",4.33374736897884,55,60

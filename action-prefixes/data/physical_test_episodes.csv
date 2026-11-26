@@ -1,0 +1,1681 @@
+episode,method,tolerance_mm,mean_prefix,any_violation,abstention
+109,Always eight,0.25,8.0,1,0.0
+56,Always eight,0.25,8.0,1,0.0
+172,Always eight,0.25,8.0,1,0.0
+99,Always eight,0.25,8.0,1,0.0
+2,Always eight,0.25,8.0,1,0.0
+44,Always eight,0.25,8.0,1,0.0
+95,Always eight,0.25,8.0,1,0.0
+189,Always eight,0.25,8.0,1,0.0
+185,Always eight,0.25,8.0,1,0.0
+24,Always eight,0.25,8.0,1,0.0
+25,Always eight,0.25,8.0,1,0.0
+31,Always eight,0.25,8.0,1,0.0
+200,Always eight,0.25,8.0,1,0.0
+52,Always eight,0.25,8.0,1,0.0
+167,Always eight,0.25,8.0,1,0.0
+156,Always eight,0.25,8.0,1,0.0
+62,Always eight,0.25,8.0,1,0.0
+29,Always eight,0.25,8.0,1,0.0
+106,Always eight,0.25,8.0,1,0.0
+5,Always eight,0.25,8.0,1,0.0
+98,Always eight,0.25,8.0,1,0.0
+11,Always eight,0.25,8.0,1,0.0
+97,Always eight,0.25,8.0,1,0.0
+191,Always eight,0.25,8.0,1,0.0
+50,Always eight,0.25,8.0,1,0.0
+178,Always eight,0.25,8.0,1,0.0
+47,Always eight,0.25,8.0,1,0.0
+179,Always eight,0.25,8.0,1,0.0
+58,Always eight,0.25,8.0,1,0.0
+82,Always eight,0.25,8.0,1,0.0
+77,Always eight,0.25,8.0,1,0.0
+43,Always eight,0.25,8.0,1,0.0
+112,Always eight,0.25,8.0,1,0.0
+142,Always eight,0.25,8.0,1,0.0
+114,Always eight,0.25,8.0,1,0.0
+128,Always eight,0.25,8.0,1,0.0
+28,Always eight,0.25,8.0,1,0.0
+149,Always eight,0.25,8.0,1,0.0
+71,Always eight,0.25,8.0,1,0.0
+104,Always eight,0.25,8.0,1,0.0
+72,Always eight,0.25,8.0,1,0.0
+42,Always eight,0.25,8.0,1,0.0
+53,Always eight,0.25,8.0,1,0.0
+17,Always eight,0.25,8.0,1,0.0
+147,Always eight,0.25,8.0,1,0.0
+150,Always eight,0.25,8.0,1,0.0
+80,Always eight,0.25,8.0,1,0.0
+135,Always eight,0.25,8.0,1,0.0
+194,Always eight,0.25,8.0,1,0.0
+186,Always eight,0.25,8.0,1,0.0
+133,Always eight,0.25,8.0,1,0.0
+192,Always eight,0.25,8.0,1,0.0
+131,Always eight,0.25,8.0,1,0.0
+184,Always eight,0.25,8.0,1,0.0
+180,Always eight,0.25,8.0,1,0.0
+139,Always eight,0.25,8.0,1,0.0
+132,Always eight,0.25,8.0,1,0.0
+181,Always eight,0.25,8.0,1,0.0
+75,Always eight,0.25,8.0,1,0.0
+70,Always eight,0.25,8.0,1,0.0
+109,Always eight,0.5,8.0,1,0.0
+56,Always eight,0.5,8.0,1,0.0
+172,Always eight,0.5,8.0,1,0.0
+99,Always eight,0.5,8.0,1,0.0
+2,Always eight,0.5,8.0,1,0.0
+44,Always eight,0.5,8.0,1,0.0
+95,Always eight,0.5,8.0,1,0.0
+189,Always eight,0.5,8.0,1,0.0
+185,Always eight,0.5,8.0,1,0.0
+24,Always eight,0.5,8.0,1,0.0
+25,Always eight,0.5,8.0,1,0.0
+31,Always eight,0.5,8.0,1,0.0
+200,Always eight,0.5,8.0,1,0.0
+52,Always eight,0.5,8.0,1,0.0
+167,Always eight,0.5,8.0,1,0.0
+156,Always eight,0.5,8.0,1,0.0
+62,Always eight,0.5,8.0,1,0.0
+29,Always eight,0.5,8.0,1,0.0
+106,Always eight,0.5,8.0,1,0.0
+5,Always eight,0.5,8.0,1,0.0
+98,Always eight,0.5,8.0,1,0.0
+11,Always eight,0.5,8.0,1,0.0
+97,Always eight,0.5,8.0,1,0.0
+191,Always eight,0.5,8.0,1,0.0
+50,Always eight,0.5,8.0,1,0.0
+178,Always eight,0.5,8.0,1,0.0
+47,Always eight,0.5,8.0,1,0.0
+179,Always eight,0.5,8.0,1,0.0
+58,Always eight,0.5,8.0,1,0.0
+82,Always eight,0.5,8.0,1,0.0
+77,Always eight,0.5,8.0,1,0.0
+43,Always eight,0.5,8.0,1,0.0
+112,Always eight,0.5,8.0,1,0.0
+142,Always eight,0.5,8.0,1,0.0
+114,Always eight,0.5,8.0,1,0.0
+128,Always eight,0.5,8.0,1,0.0
+28,Always eight,0.5,8.0,1,0.0
+149,Always eight,0.5,8.0,1,0.0
+71,Always eight,0.5,8.0,1,0.0
+104,Always eight,0.5,8.0,1,0.0
+72,Always eight,0.5,8.0,1,0.0
+42,Always eight,0.5,8.0,1,0.0
+53,Always eight,0.5,8.0,1,0.0
+17,Always eight,0.5,8.0,1,0.0
+147,Always eight,0.5,8.0,1,0.0
+150,Always eight,0.5,8.0,1,0.0
+80,Always eight,0.5,8.0,0,0.0
+135,Always eight,0.5,8.0,1,0.0
+194,Always eight,0.5,8.0,1,0.0
+186,Always eight,0.5,8.0,1,0.0
+133,Always eight,0.5,8.0,1,0.0
+192,Always eight,0.5,8.0,1,0.0
+131,Always eight,0.5,8.0,1,0.0
+184,Always eight,0.5,8.0,1,0.0
+180,Always eight,0.5,8.0,1,0.0
+139,Always eight,0.5,8.0,1,0.0
+132,Always eight,0.5,8.0,1,0.0
+181,Always eight,0.5,8.0,1,0.0
+75,Always eight,0.5,8.0,1,0.0
+70,Always eight,0.5,8.0,1,0.0
+109,Always eight,1.0,8.0,1,0.0
+56,Always eight,1.0,8.0,0,0.0
+172,Always eight,1.0,8.0,1,0.0
+99,Always eight,1.0,8.0,1,0.0
+2,Always eight,1.0,8.0,1,0.0
+44,Always eight,1.0,8.0,1,0.0
+95,Always eight,1.0,8.0,0,0.0
+189,Always eight,1.0,8.0,0,0.0
+185,Always eight,1.0,8.0,1,0.0
+24,Always eight,1.0,8.0,1,0.0
+25,Always eight,1.0,8.0,1,0.0
+31,Always eight,1.0,8.0,1,0.0
+200,Always eight,1.0,8.0,1,0.0
+52,Always eight,1.0,8.0,1,0.0
+167,Always eight,1.0,8.0,1,0.0
+156,Always eight,1.0,8.0,1,0.0
+62,Always eight,1.0,8.0,1,0.0
+29,Always eight,1.0,8.0,0,0.0
+106,Always eight,1.0,8.0,1,0.0
+5,Always eight,1.0,8.0,1,0.0
+98,Always eight,1.0,8.0,1,0.0
+11,Always eight,1.0,8.0,1,0.0
+97,Always eight,1.0,8.0,1,0.0
+191,Always eight,1.0,8.0,1,0.0
+50,Always eight,1.0,8.0,1,0.0
+178,Always eight,1.0,8.0,1,0.0
+47,Always eight,1.0,8.0,1,0.0
+179,Always eight,1.0,8.0,0,0.0
+58,Always eight,1.0,8.0,1,0.0
+82,Always eight,1.0,8.0,0,0.0
+77,Always eight,1.0,8.0,0,0.0
+43,Always eight,1.0,8.0,1,0.0
+112,Always eight,1.0,8.0,1,0.0
+142,Always eight,1.0,8.0,1,0.0
+114,Always eight,1.0,8.0,0,0.0
+128,Always eight,1.0,8.0,1,0.0
+28,Always eight,1.0,8.0,0,0.0
+149,Always eight,1.0,8.0,1,0.0
+71,Always eight,1.0,8.0,1,0.0
+104,Always eight,1.0,8.0,1,0.0
+72,Always eight,1.0,8.0,1,0.0
+42,Always eight,1.0,8.0,0,0.0
+53,Always eight,1.0,8.0,1,0.0
+17,Always eight,1.0,8.0,1,0.0
+147,Always eight,1.0,8.0,1,0.0
+150,Always eight,1.0,8.0,1,0.0
+80,Always eight,1.0,8.0,0,0.0
+135,Always eight,1.0,8.0,0,0.0
+194,Always eight,1.0,8.0,1,0.0
+186,Always eight,1.0,8.0,1,0.0
+133,Always eight,1.0,8.0,1,0.0
+192,Always eight,1.0,8.0,1,0.0
+131,Always eight,1.0,8.0,1,0.0
+184,Always eight,1.0,8.0,1,0.0
+180,Always eight,1.0,8.0,0,0.0
+139,Always eight,1.0,8.0,1,0.0
+132,Always eight,1.0,8.0,1,0.0
+181,Always eight,1.0,8.0,1,0.0
+75,Always eight,1.0,8.0,1,0.0
+70,Always eight,1.0,8.0,1,0.0
+109,Always eight,2.0,8.0,1,0.0
+56,Always eight,2.0,8.0,0,0.0
+172,Always eight,2.0,8.0,1,0.0
+99,Always eight,2.0,8.0,1,0.0
+2,Always eight,2.0,8.0,0,0.0
+44,Always eight,2.0,8.0,0,0.0
+95,Always eight,2.0,8.0,0,0.0
+189,Always eight,2.0,8.0,0,0.0
+185,Always eight,2.0,8.0,0,0.0
+24,Always eight,2.0,8.0,1,0.0
+25,Always eight,2.0,8.0,1,0.0
+31,Always eight,2.0,8.0,1,0.0
+200,Always eight,2.0,8.0,1,0.0
+52,Always eight,2.0,8.0,0,0.0
+167,Always eight,2.0,8.0,1,0.0
+156,Always eight,2.0,8.0,0,0.0
+62,Always eight,2.0,8.0,0,0.0
+29,Always eight,2.0,8.0,0,0.0
+106,Always eight,2.0,8.0,0,0.0
+5,Always eight,2.0,8.0,0,0.0
+98,Always eight,2.0,8.0,1,0.0
+11,Always eight,2.0,8.0,1,0.0
+97,Always eight,2.0,8.0,1,0.0
+191,Always eight,2.0,8.0,1,0.0
+50,Always eight,2.0,8.0,0,0.0
+178,Always eight,2.0,8.0,0,0.0
+47,Always eight,2.0,8.0,0,0.0
+179,Always eight,2.0,8.0,0,0.0
+58,Always eight,2.0,8.0,1,0.0
+82,Always eight,2.0,8.0,0,0.0
+77,Always eight,2.0,8.0,0,0.0
+43,Always eight,2.0,8.0,0,0.0
+112,Always eight,2.0,8.0,0,0.0
+142,Always eight,2.0,8.0,1,0.0
+114,Always eight,2.0,8.0,0,0.0
+128,Always eight,2.0,8.0,0,0.0
+28,Always eight,2.0,8.0,0,0.0
+149,Always eight,2.0,8.0,1,0.0
+71,Always eight,2.0,8.0,1,0.0
+104,Always eight,2.0,8.0,0,0.0
+72,Always eight,2.0,8.0,1,0.0
+42,Always eight,2.0,8.0,0,0.0
+53,Always eight,2.0,8.0,0,0.0
+17,Always eight,2.0,8.0,1,0.0
+147,Always eight,2.0,8.0,1,0.0
+150,Always eight,2.0,8.0,1,0.0
+80,Always eight,2.0,8.0,0,0.0
+135,Always eight,2.0,8.0,0,0.0
+194,Always eight,2.0,8.0,0,0.0
+186,Always eight,2.0,8.0,1,0.0
+133,Always eight,2.0,8.0,1,0.0
+192,Always eight,2.0,8.0,0,0.0
+131,Always eight,2.0,8.0,1,0.0
+184,Always eight,2.0,8.0,0,0.0
+180,Always eight,2.0,8.0,0,0.0
+139,Always eight,2.0,8.0,1,0.0
+132,Always eight,2.0,8.0,0,0.0
+181,Always eight,2.0,8.0,1,0.0
+75,Always eight,2.0,8.0,0,0.0
+70,Always eight,2.0,8.0,0,0.0
+109,Always eight,3.0,8.0,0,0.0
+56,Always eight,3.0,8.0,0,0.0
+172,Always eight,3.0,8.0,0,0.0
+99,Always eight,3.0,8.0,0,0.0
+2,Always eight,3.0,8.0,0,0.0
+44,Always eight,3.0,8.0,0,0.0
+95,Always eight,3.0,8.0,0,0.0
+189,Always eight,3.0,8.0,0,0.0
+185,Always eight,3.0,8.0,0,0.0
+24,Always eight,3.0,8.0,0,0.0
+25,Always eight,3.0,8.0,0,0.0
+31,Always eight,3.0,8.0,0,0.0
+200,Always eight,3.0,8.0,0,0.0
+52,Always eight,3.0,8.0,0,0.0
+167,Always eight,3.0,8.0,0,0.0
+156,Always eight,3.0,8.0,0,0.0
+62,Always eight,3.0,8.0,0,0.0
+29,Always eight,3.0,8.0,0,0.0
+106,Always eight,3.0,8.0,0,0.0
+5,Always eight,3.0,8.0,0,0.0
+98,Always eight,3.0,8.0,0,0.0
+11,Always eight,3.0,8.0,0,0.0
+97,Always eight,3.0,8.0,0,0.0
+191,Always eight,3.0,8.0,1,0.0
+50,Always eight,3.0,8.0,0,0.0
+178,Always eight,3.0,8.0,0,0.0
+47,Always eight,3.0,8.0,0,0.0
+179,Always eight,3.0,8.0,0,0.0
+58,Always eight,3.0,8.0,0,0.0
+82,Always eight,3.0,8.0,0,0.0
+77,Always eight,3.0,8.0,0,0.0
+43,Always eight,3.0,8.0,0,0.0
+112,Always eight,3.0,8.0,0,0.0
+142,Always eight,3.0,8.0,1,0.0
+114,Always eight,3.0,8.0,0,0.0
+128,Always eight,3.0,8.0,0,0.0
+28,Always eight,3.0,8.0,0,0.0
+149,Always eight,3.0,8.0,1,0.0
+71,Always eight,3.0,8.0,0,0.0
+104,Always eight,3.0,8.0,0,0.0
+72,Always eight,3.0,8.0,0,0.0
+42,Always eight,3.0,8.0,0,0.0
+53,Always eight,3.0,8.0,0,0.0
+17,Always eight,3.0,8.0,0,0.0
+147,Always eight,3.0,8.0,0,0.0
+150,Always eight,3.0,8.0,0,0.0
+80,Always eight,3.0,8.0,0,0.0
+135,Always eight,3.0,8.0,0,0.0
+194,Always eight,3.0,8.0,0,0.0
+186,Always eight,3.0,8.0,0,0.0
+133,Always eight,3.0,8.0,0,0.0
+192,Always eight,3.0,8.0,0,0.0
+131,Always eight,3.0,8.0,0,0.0
+184,Always eight,3.0,8.0,0,0.0
+180,Always eight,3.0,8.0,0,0.0
+139,Always eight,3.0,8.0,0,0.0
+132,Always eight,3.0,8.0,0,0.0
+181,Always eight,3.0,8.0,0,0.0
+75,Always eight,3.0,8.0,0,0.0
+70,Always eight,3.0,8.0,0,0.0
+109,Always eight,4.0,8.0,0,0.0
+56,Always eight,4.0,8.0,0,0.0
+172,Always eight,4.0,8.0,0,0.0
+99,Always eight,4.0,8.0,0,0.0
+2,Always eight,4.0,8.0,0,0.0
+44,Always eight,4.0,8.0,0,0.0
+95,Always eight,4.0,8.0,0,0.0
+189,Always eight,4.0,8.0,0,0.0
+185,Always eight,4.0,8.0,0,0.0
+24,Always eight,4.0,8.0,0,0.0
+25,Always eight,4.0,8.0,0,0.0
+31,Always eight,4.0,8.0,0,0.0
+200,Always eight,4.0,8.0,0,0.0
+52,Always eight,4.0,8.0,0,0.0
+167,Always eight,4.0,8.0,0,0.0
+156,Always eight,4.0,8.0,0,0.0
+62,Always eight,4.0,8.0,0,0.0
+29,Always eight,4.0,8.0,0,0.0
+106,Always eight,4.0,8.0,0,0.0
+5,Always eight,4.0,8.0,0,0.0
+98,Always eight,4.0,8.0,0,0.0
+11,Always eight,4.0,8.0,0,0.0
+97,Always eight,4.0,8.0,0,0.0
+191,Always eight,4.0,8.0,0,0.0
+50,Always eight,4.0,8.0,0,0.0
+178,Always eight,4.0,8.0,0,0.0
+47,Always eight,4.0,8.0,0,0.0
+179,Always eight,4.0,8.0,0,0.0
+58,Always eight,4.0,8.0,0,0.0
+82,Always eight,4.0,8.0,0,0.0
+77,Always eight,4.0,8.0,0,0.0
+43,Always eight,4.0,8.0,0,0.0
+112,Always eight,4.0,8.0,0,0.0
+142,Always eight,4.0,8.0,0,0.0
+114,Always eight,4.0,8.0,0,0.0
+128,Always eight,4.0,8.0,0,0.0
+28,Always eight,4.0,8.0,0,0.0
+149,Always eight,4.0,8.0,0,0.0
+71,Always eight,4.0,8.0,0,0.0
+104,Always eight,4.0,8.0,0,0.0
+72,Always eight,4.0,8.0,0,0.0
+42,Always eight,4.0,8.0,0,0.0
+53,Always eight,4.0,8.0,0,0.0
+17,Always eight,4.0,8.0,0,0.0
+147,Always eight,4.0,8.0,0,0.0
+150,Always eight,4.0,8.0,0,0.0
+80,Always eight,4.0,8.0,0,0.0
+135,Always eight,4.0,8.0,0,0.0
+194,Always eight,4.0,8.0,0,0.0
+186,Always eight,4.0,8.0,0,0.0
+133,Always eight,4.0,8.0,0,0.0
+192,Always eight,4.0,8.0,0,0.0
+131,Always eight,4.0,8.0,0,0.0
+184,Always eight,4.0,8.0,0,0.0
+180,Always eight,4.0,8.0,0,0.0
+139,Always eight,4.0,8.0,0,0.0
+132,Always eight,4.0,8.0,0,0.0
+181,Always eight,4.0,8.0,0,0.0
+75,Always eight,4.0,8.0,0,0.0
+70,Always eight,4.0,8.0,0,0.0
+109,Always eight,6.0,8.0,0,0.0
+56,Always eight,6.0,8.0,0,0.0
+172,Always eight,6.0,8.0,0,0.0
+99,Always eight,6.0,8.0,0,0.0
+2,Always eight,6.0,8.0,0,0.0
+44,Always eight,6.0,8.0,0,0.0
+95,Always eight,6.0,8.0,0,0.0
+189,Always eight,6.0,8.0,0,0.0
+185,Always eight,6.0,8.0,0,0.0
+24,Always eight,6.0,8.0,0,0.0
+25,Always eight,6.0,8.0,0,0.0
+31,Always eight,6.0,8.0,0,0.0
+200,Always eight,6.0,8.0,0,0.0
+52,Always eight,6.0,8.0,0,0.0
+167,Always eight,6.0,8.0,0,0.0
+156,Always eight,6.0,8.0,0,0.0
+62,Always eight,6.0,8.0,0,0.0
+29,Always eight,6.0,8.0,0,0.0
+106,Always eight,6.0,8.0,0,0.0
+5,Always eight,6.0,8.0,0,0.0
+98,Always eight,6.0,8.0,0,0.0
+11,Always eight,6.0,8.0,0,0.0
+97,Always eight,6.0,8.0,0,0.0
+191,Always eight,6.0,8.0,0,0.0
+50,Always eight,6.0,8.0,0,0.0
+178,Always eight,6.0,8.0,0,0.0
+47,Always eight,6.0,8.0,0,0.0
+179,Always eight,6.0,8.0,0,0.0
+58,Always eight,6.0,8.0,0,0.0
+82,Always eight,6.0,8.0,0,0.0
+77,Always eight,6.0,8.0,0,0.0
+43,Always eight,6.0,8.0,0,0.0
+112,Always eight,6.0,8.0,0,0.0
+142,Always eight,6.0,8.0,0,0.0
+114,Always eight,6.0,8.0,0,0.0
+128,Always eight,6.0,8.0,0,0.0
+28,Always eight,6.0,8.0,0,0.0
+149,Always eight,6.0,8.0,0,0.0
+71,Always eight,6.0,8.0,0,0.0
+104,Always eight,6.0,8.0,0,0.0
+72,Always eight,6.0,8.0,0,0.0
+42,Always eight,6.0,8.0,0,0.0
+53,Always eight,6.0,8.0,0,0.0
+17,Always eight,6.0,8.0,0,0.0
+147,Always eight,6.0,8.0,0,0.0
+150,Always eight,6.0,8.0,0,0.0
+80,Always eight,6.0,8.0,0,0.0
+135,Always eight,6.0,8.0,0,0.0
+194,Always eight,6.0,8.0,0,0.0
+186,Always eight,6.0,8.0,0,0.0
+133,Always eight,6.0,8.0,0,0.0
+192,Always eight,6.0,8.0,0,0.0
+131,Always eight,6.0,8.0,0,0.0
+184,Always eight,6.0,8.0,0,0.0
+180,Always eight,6.0,8.0,0,0.0
+139,Always eight,6.0,8.0,0,0.0
+132,Always eight,6.0,8.0,0,0.0
+181,Always eight,6.0,8.0,0,0.0
+75,Always eight,6.0,8.0,0,0.0
+70,Always eight,6.0,8.0,0,0.0
+109,Pooled windows,0.25,0.0,0,1.0
+56,Pooled windows,0.25,0.0,0,1.0
+172,Pooled windows,0.25,0.0,0,1.0
+99,Pooled windows,0.25,0.0,0,1.0
+2,Pooled windows,0.25,0.0,0,1.0
+44,Pooled windows,0.25,0.0,0,1.0
+95,Pooled windows,0.25,0.0,0,1.0
+189,Pooled windows,0.25,0.0,0,1.0
+185,Pooled windows,0.25,0.0,0,1.0
+24,Pooled windows,0.25,0.0,0,1.0
+25,Pooled windows,0.25,0.0,0,1.0
+31,Pooled windows,0.25,0.0,0,1.0
+200,Pooled windows,0.25,0.0,0,1.0
+52,Pooled windows,0.25,0.0,0,1.0
+167,Pooled windows,0.25,0.0,0,1.0
+156,Pooled windows,0.25,0.0,0,1.0
+62,Pooled windows,0.25,0.0,0,1.0
+29,Pooled windows,0.25,0.0,0,1.0
+106,Pooled windows,0.25,0.0,0,1.0
+5,Pooled windows,0.25,0.0,0,1.0
+98,Pooled windows,0.25,0.0,0,1.0
+11,Pooled windows,0.25,0.0,0,1.0
+97,Pooled windows,0.25,0.0,0,1.0
+191,Pooled windows,0.25,0.0,0,1.0
+50,Pooled windows,0.25,0.0,0,1.0
+178,Pooled windows,0.25,0.0,0,1.0
+47,Pooled windows,0.25,0.0,0,1.0
+179,Pooled windows,0.25,0.0,0,1.0
+58,Pooled windows,0.25,0.0,0,1.0
+82,Pooled windows,0.25,0.0,0,1.0
+77,Pooled windows,0.25,0.0,0,1.0
+43,Pooled windows,0.25,0.0,0,1.0
+112,Pooled windows,0.25,0.0,0,1.0
+142,Pooled windows,0.25,0.0,0,1.0
+114,Pooled windows,0.25,0.0,0,1.0
+128,Pooled windows,0.25,0.0,0,1.0
+28,Pooled windows,0.25,0.0,0,1.0
+149,Pooled windows,0.25,0.0,0,1.0
+71,Pooled windows,0.25,0.0,0,1.0
+104,Pooled windows,0.25,0.0,0,1.0
+72,Pooled windows,0.25,0.0,0,1.0
+42,Pooled windows,0.25,0.0,0,1.0
+53,Pooled windows,0.25,0.0,0,1.0
+17,Pooled windows,0.25,0.0,0,1.0
+147,Pooled windows,0.25,0.0,0,1.0
+150,Pooled windows,0.25,0.0,0,1.0
+80,Pooled windows,0.25,0.0,0,1.0
+135,Pooled windows,0.25,0.0,0,1.0
+194,Pooled windows,0.25,0.0,0,1.0
+186,Pooled windows,0.25,0.0,0,1.0
+133,Pooled windows,0.25,0.0,0,1.0
+192,Pooled windows,0.25,0.0,0,1.0
+131,Pooled windows,0.25,0.0,0,1.0
+184,Pooled windows,0.25,0.0,0,1.0
+180,Pooled windows,0.25,0.0,0,1.0
+139,Pooled windows,0.25,0.0,0,1.0
+132,Pooled windows,0.25,0.0,0,1.0
+181,Pooled windows,0.25,0.0,0,1.0
+75,Pooled windows,0.25,0.0,0,1.0
+70,Pooled windows,0.25,0.0,0,1.0
+109,Pooled windows,0.5,0.0,0,1.0
+56,Pooled windows,0.5,0.0,0,1.0
+172,Pooled windows,0.5,0.0,0,1.0
+99,Pooled windows,0.5,0.0,0,1.0
+2,Pooled windows,0.5,0.0,0,1.0
+44,Pooled windows,0.5,0.0,0,1.0
+95,Pooled windows,0.5,0.0,0,1.0
+189,Pooled windows,0.5,0.0,0,1.0
+185,Pooled windows,0.5,0.0,0,1.0
+24,Pooled windows,0.5,0.0,0,1.0
+25,Pooled windows,0.5,0.0,0,1.0
+31,Pooled windows,0.5,0.0,0,1.0
+200,Pooled windows,0.5,0.0,0,1.0
+52,Pooled windows,0.5,0.0,0,1.0
+167,Pooled windows,0.5,0.0,0,1.0
+156,Pooled windows,0.5,0.0,0,1.0
+62,Pooled windows,0.5,0.0,0,1.0
+29,Pooled windows,0.5,0.0,0,1.0
+106,Pooled windows,0.5,0.0,0,1.0
+5,Pooled windows,0.5,0.0,0,1.0
+98,Pooled windows,0.5,0.0,0,1.0
+11,Pooled windows,0.5,0.0,0,1.0
+97,Pooled windows,0.5,0.0,0,1.0
+191,Pooled windows,0.5,0.0,0,1.0
+50,Pooled windows,0.5,0.0,0,1.0
+178,Pooled windows,0.5,0.0,0,1.0
+47,Pooled windows,0.5,0.0,0,1.0
+179,Pooled windows,0.5,0.0,0,1.0
+58,Pooled windows,0.5,0.0,0,1.0
+82,Pooled windows,0.5,0.0,0,1.0
+77,Pooled windows,0.5,0.0,0,1.0
+43,Pooled windows,0.5,0.0,0,1.0
+112,Pooled windows,0.5,0.0,0,1.0
+142,Pooled windows,0.5,0.0,0,1.0
+114,Pooled windows,0.5,0.0,0,1.0
+128,Pooled windows,0.5,0.0,0,1.0
+28,Pooled windows,0.5,0.0,0,1.0
+149,Pooled windows,0.5,0.0,0,1.0
+71,Pooled windows,0.5,0.0,0,1.0
+104,Pooled windows,0.5,0.0,0,1.0
+72,Pooled windows,0.5,0.0,0,1.0
+42,Pooled windows,0.5,0.0,0,1.0
+53,Pooled windows,0.5,0.0,0,1.0
+17,Pooled windows,0.5,0.0,0,1.0
+147,Pooled windows,0.5,0.0,0,1.0
+150,Pooled windows,0.5,0.0,0,1.0
+80,Pooled windows,0.5,0.0,0,1.0
+135,Pooled windows,0.5,0.0,0,1.0
+194,Pooled windows,0.5,0.0,0,1.0
+186,Pooled windows,0.5,0.0,0,1.0
+133,Pooled windows,0.5,0.0,0,1.0
+192,Pooled windows,0.5,0.0,0,1.0
+131,Pooled windows,0.5,0.0,0,1.0
+184,Pooled windows,0.5,0.0,0,1.0
+180,Pooled windows,0.5,0.0,0,1.0
+139,Pooled windows,0.5,0.0,0,1.0
+132,Pooled windows,0.5,0.0,0,1.0
+181,Pooled windows,0.5,0.0,0,1.0
+75,Pooled windows,0.5,0.0,0,1.0
+70,Pooled windows,0.5,0.0,0,1.0
+109,Pooled windows,1.0,4.2,1,0.0
+56,Pooled windows,1.0,5.166666666666667,0,0.0
+172,Pooled windows,1.0,4.666666666666667,0,0.0
+99,Pooled windows,1.0,4.833333333333333,1,0.0
+2,Pooled windows,1.0,4.8,0,0.0
+44,Pooled windows,1.0,4.4,0,0.0
+95,Pooled windows,1.0,5.0,0,0.0
+189,Pooled windows,1.0,4.8,0,0.0
+185,Pooled windows,1.0,4.4,1,0.0
+24,Pooled windows,1.0,4.6,1,0.0
+25,Pooled windows,1.0,4.666666666666667,0,0.0
+31,Pooled windows,1.0,4.4,1,0.0
+200,Pooled windows,1.0,4.4,1,0.0
+52,Pooled windows,1.0,4.4,0,0.0
+167,Pooled windows,1.0,4.4,1,0.0
+156,Pooled windows,1.0,5.0,0,0.0
+62,Pooled windows,1.0,5.0,0,0.0
+29,Pooled windows,1.0,5.333333333333333,0,0.0
+106,Pooled windows,1.0,4.6,0,0.0
+5,Pooled windows,1.0,4.8,0,0.0
+98,Pooled windows,1.0,4.4,1,0.0
+11,Pooled windows,1.0,4.2,1,0.0
+97,Pooled windows,1.0,4.4,1,0.0
+191,Pooled windows,1.0,5.0,1,0.0
+50,Pooled windows,1.0,4.6,0,0.0
+178,Pooled windows,1.0,4.8,0,0.0
+47,Pooled windows,1.0,4.8,0,0.0
+179,Pooled windows,1.0,5.0,0,0.0
+58,Pooled windows,1.0,4.666666666666667,1,0.0
+82,Pooled windows,1.0,4.8,0,0.0
+77,Pooled windows,1.0,5.4,0,0.0
+43,Pooled windows,1.0,4.8,0,0.0
+112,Pooled windows,1.0,4.8,0,0.0
+142,Pooled windows,1.0,4.2,1,0.0
+114,Pooled windows,1.0,4.6,0,0.0
+128,Pooled windows,1.0,4.4,0,0.0
+28,Pooled windows,1.0,5.2,0,0.0
+149,Pooled windows,1.0,4.166666666666667,1,0.0
+71,Pooled windows,1.0,4.6,1,0.0
+104,Pooled windows,1.0,5.0,0,0.0
+72,Pooled windows,1.0,4.8,1,0.0
+42,Pooled windows,1.0,5.2,0,0.0
+53,Pooled windows,1.0,4.2,0,0.0
+17,Pooled windows,1.0,4.2,1,0.0
+147,Pooled windows,1.0,4.6,1,0.0
+150,Pooled windows,1.0,4.4,1,0.0
+80,Pooled windows,1.0,4.8,0,0.0
+135,Pooled windows,1.0,5.4,0,0.0
+194,Pooled windows,1.0,4.2,0,0.0
+186,Pooled windows,1.0,4.6,1,0.0
+133,Pooled windows,1.0,4.666666666666667,0,0.0
+192,Pooled windows,1.0,4.833333333333333,0,0.0
+131,Pooled windows,1.0,4.5,1,0.0
+184,Pooled windows,1.0,4.8,0,0.0
+180,Pooled windows,1.0,4.8,0,0.0
+139,Pooled windows,1.0,4.6,1,0.0
+132,Pooled windows,1.0,4.5,1,0.0
+181,Pooled windows,1.0,4.4,1,0.0
+75,Pooled windows,1.0,5.166666666666667,0,0.0
+70,Pooled windows,1.0,5.0,0,0.0
+109,Pooled windows,2.0,7.2,1,0.0
+56,Pooled windows,2.0,8.0,0,0.0
+172,Pooled windows,2.0,7.5,0,0.0
+99,Pooled windows,2.0,7.5,1,0.0
+2,Pooled windows,2.0,7.4,0,0.0
+44,Pooled windows,2.0,7.2,0,0.0
+95,Pooled windows,2.0,8.0,0,0.0
+189,Pooled windows,2.0,7.6,0,0.0
+185,Pooled windows,2.0,7.4,0,0.0
+24,Pooled windows,2.0,7.4,1,0.0
+25,Pooled windows,2.0,7.333333333333333,0,0.0
+31,Pooled windows,2.0,7.4,1,0.0
+200,Pooled windows,2.0,7.4,1,0.0
+52,Pooled windows,2.0,7.0,0,0.0
+167,Pooled windows,2.0,7.2,1,0.0
+156,Pooled windows,2.0,7.6,0,0.0
+62,Pooled windows,2.0,7.833333333333333,0,0.0
+29,Pooled windows,2.0,7.833333333333333,0,0.0
+106,Pooled windows,2.0,7.6,0,0.0
+5,Pooled windows,2.0,7.8,0,0.0
+98,Pooled windows,2.0,7.2,1,0.0
+11,Pooled windows,2.0,7.0,1,0.0
+97,Pooled windows,2.0,7.4,1,0.0
+191,Pooled windows,2.0,7.5,1,0.0
+50,Pooled windows,2.0,7.4,0,0.0
+178,Pooled windows,2.0,7.4,0,0.0
+47,Pooled windows,2.0,8.0,0,0.0
+179,Pooled windows,2.0,8.0,0,0.0
+58,Pooled windows,2.0,7.5,1,0.0
+82,Pooled windows,2.0,8.0,0,0.0
+77,Pooled windows,2.0,8.0,0,0.0
+43,Pooled windows,2.0,7.6,0,0.0
+112,Pooled windows,2.0,7.6,0,0.0
+142,Pooled windows,2.0,7.2,1,0.0
+114,Pooled windows,2.0,8.0,0,0.0
+128,Pooled windows,2.0,7.2,0,0.0
+28,Pooled windows,2.0,8.0,0,0.0
+149,Pooled windows,2.0,7.166666666666667,1,0.0
+71,Pooled windows,2.0,7.4,1,0.0
+104,Pooled windows,2.0,7.5,0,0.0
+72,Pooled windows,2.0,7.4,1,0.0
+42,Pooled windows,2.0,8.0,0,0.0
+53,Pooled windows,2.0,7.0,0,0.0
+17,Pooled windows,2.0,7.4,1,0.0
+147,Pooled windows,2.0,7.2,1,0.0
+150,Pooled windows,2.0,7.2,1,0.0
+80,Pooled windows,2.0,7.8,0,0.0
+135,Pooled windows,2.0,8.0,0,0.0
+194,Pooled windows,2.0,7.2,0,0.0
+186,Pooled windows,2.0,7.6,1,0.0
+133,Pooled windows,2.0,7.333333333333333,0,0.0
+192,Pooled windows,2.0,7.333333333333333,0,0.0
+131,Pooled windows,2.0,7.0,1,0.0
+184,Pooled windows,2.0,7.6,0,0.0
+180,Pooled windows,2.0,8.0,0,0.0
+139,Pooled windows,2.0,7.2,1,0.0
+132,Pooled windows,2.0,7.166666666666667,0,0.0
+181,Pooled windows,2.0,7.4,1,0.0
+75,Pooled windows,2.0,7.666666666666667,0,0.0
+70,Pooled windows,2.0,7.6,0,0.0
+109,Pooled windows,3.0,8.0,0,0.0
+56,Pooled windows,3.0,8.0,0,0.0
+172,Pooled windows,3.0,8.0,0,0.0
+99,Pooled windows,3.0,8.0,0,0.0
+2,Pooled windows,3.0,8.0,0,0.0
+44,Pooled windows,3.0,8.0,0,0.0
+95,Pooled windows,3.0,8.0,0,0.0
+189,Pooled windows,3.0,8.0,0,0.0
+185,Pooled windows,3.0,8.0,0,0.0
+24,Pooled windows,3.0,8.0,0,0.0
+25,Pooled windows,3.0,8.0,0,0.0
+31,Pooled windows,3.0,8.0,0,0.0
+200,Pooled windows,3.0,8.0,0,0.0
+52,Pooled windows,3.0,8.0,0,0.0
+167,Pooled windows,3.0,8.0,0,0.0
+156,Pooled windows,3.0,8.0,0,0.0
+62,Pooled windows,3.0,8.0,0,0.0
+29,Pooled windows,3.0,8.0,0,0.0
+106,Pooled windows,3.0,8.0,0,0.0
+5,Pooled windows,3.0,8.0,0,0.0
+98,Pooled windows,3.0,8.0,0,0.0
+11,Pooled windows,3.0,8.0,0,0.0
+97,Pooled windows,3.0,8.0,0,0.0
+191,Pooled windows,3.0,8.0,1,0.0
+50,Pooled windows,3.0,8.0,0,0.0
+178,Pooled windows,3.0,8.0,0,0.0
+47,Pooled windows,3.0,8.0,0,0.0
+179,Pooled windows,3.0,8.0,0,0.0
+58,Pooled windows,3.0,8.0,0,0.0
+82,Pooled windows,3.0,8.0,0,0.0
+77,Pooled windows,3.0,8.0,0,0.0
+43,Pooled windows,3.0,8.0,0,0.0
+112,Pooled windows,3.0,8.0,0,0.0
+142,Pooled windows,3.0,8.0,1,0.0
+114,Pooled windows,3.0,8.0,0,0.0
+128,Pooled windows,3.0,8.0,0,0.0
+28,Pooled windows,3.0,8.0,0,0.0
+149,Pooled windows,3.0,8.0,1,0.0
+71,Pooled windows,3.0,8.0,0,0.0
+104,Pooled windows,3.0,8.0,0,0.0
+72,Pooled windows,3.0,8.0,0,0.0
+42,Pooled windows,3.0,8.0,0,0.0
+53,Pooled windows,3.0,8.0,0,0.0
+17,Pooled windows,3.0,8.0,0,0.0
+147,Pooled windows,3.0,8.0,0,0.0
+150,Pooled windows,3.0,8.0,0,0.0
+80,Pooled windows,3.0,8.0,0,0.0
+135,Pooled windows,3.0,8.0,0,0.0
+194,Pooled windows,3.0,8.0,0,0.0
+186,Pooled windows,3.0,8.0,0,0.0
+133,Pooled windows,3.0,8.0,0,0.0
+192,Pooled windows,3.0,8.0,0,0.0
+131,Pooled windows,3.0,8.0,0,0.0
+184,Pooled windows,3.0,8.0,0,0.0
+180,Pooled windows,3.0,8.0,0,0.0
+139,Pooled windows,3.0,8.0,0,0.0
+132,Pooled windows,3.0,8.0,0,0.0
+181,Pooled windows,3.0,8.0,0,0.0
+75,Pooled windows,3.0,8.0,0,0.0
+70,Pooled windows,3.0,8.0,0,0.0
+109,Pooled windows,4.0,8.0,0,0.0
+56,Pooled windows,4.0,8.0,0,0.0
+172,Pooled windows,4.0,8.0,0,0.0
+99,Pooled windows,4.0,8.0,0,0.0
+2,Pooled windows,4.0,8.0,0,0.0
+44,Pooled windows,4.0,8.0,0,0.0
+95,Pooled windows,4.0,8.0,0,0.0
+189,Pooled windows,4.0,8.0,0,0.0
+185,Pooled windows,4.0,8.0,0,0.0
+24,Pooled windows,4.0,8.0,0,0.0
+25,Pooled windows,4.0,8.0,0,0.0
+31,Pooled windows,4.0,8.0,0,0.0
+200,Pooled windows,4.0,8.0,0,0.0
+52,Pooled windows,4.0,8.0,0,0.0
+167,Pooled windows,4.0,8.0,0,0.0
+156,Pooled windows,4.0,8.0,0,0.0
+62,Pooled windows,4.0,8.0,0,0.0
+29,Pooled windows,4.0,8.0,0,0.0
+106,Pooled windows,4.0,8.0,0,0.0
+5,Pooled windows,4.0,8.0,0,0.0
+98,Pooled windows,4.0,8.0,0,0.0
+11,Pooled windows,4.0,8.0,0,0.0
+97,Pooled windows,4.0,8.0,0,0.0
+191,Pooled windows,4.0,8.0,0,0.0
+50,Pooled windows,4.0,8.0,0,0.0
+178,Pooled windows,4.0,8.0,0,0.0
+47,Pooled windows,4.0,8.0,0,0.0
+179,Pooled windows,4.0,8.0,0,0.0
+58,Pooled windows,4.0,8.0,0,0.0
+82,Pooled windows,4.0,8.0,0,0.0
+77,Pooled windows,4.0,8.0,0,0.0
+43,Pooled windows,4.0,8.0,0,0.0
+112,Pooled windows,4.0,8.0,0,0.0
+142,Pooled windows,4.0,8.0,0,0.0
+114,Pooled windows,4.0,8.0,0,0.0
+128,Pooled windows,4.0,8.0,0,0.0
+28,Pooled windows,4.0,8.0,0,0.0
+149,Pooled windows,4.0,8.0,0,0.0
+71,Pooled windows,4.0,8.0,0,0.0
+104,Pooled windows,4.0,8.0,0,0.0
+72,Pooled windows,4.0,8.0,0,0.0
+42,Pooled windows,4.0,8.0,0,0.0
+53,Pooled windows,4.0,8.0,0,0.0
+17,Pooled windows,4.0,8.0,0,0.0
+147,Pooled windows,4.0,8.0,0,0.0
+150,Pooled windows,4.0,8.0,0,0.0
+80,Pooled windows,4.0,8.0,0,0.0
+135,Pooled windows,4.0,8.0,0,0.0
+194,Pooled windows,4.0,8.0,0,0.0
+186,Pooled windows,4.0,8.0,0,0.0
+133,Pooled windows,4.0,8.0,0,0.0
+192,Pooled windows,4.0,8.0,0,0.0
+131,Pooled windows,4.0,8.0,0,0.0
+184,Pooled windows,4.0,8.0,0,0.0
+180,Pooled windows,4.0,8.0,0,0.0
+139,Pooled windows,4.0,8.0,0,0.0
+132,Pooled windows,4.0,8.0,0,0.0
+181,Pooled windows,4.0,8.0,0,0.0
+75,Pooled windows,4.0,8.0,0,0.0
+70,Pooled windows,4.0,8.0,0,0.0
+109,Pooled windows,6.0,8.0,0,0.0
+56,Pooled windows,6.0,8.0,0,0.0
+172,Pooled windows,6.0,8.0,0,0.0
+99,Pooled windows,6.0,8.0,0,0.0
+2,Pooled windows,6.0,8.0,0,0.0
+44,Pooled windows,6.0,8.0,0,0.0
+95,Pooled windows,6.0,8.0,0,0.0
+189,Pooled windows,6.0,8.0,0,0.0
+185,Pooled windows,6.0,8.0,0,0.0
+24,Pooled windows,6.0,8.0,0,0.0
+25,Pooled windows,6.0,8.0,0,0.0
+31,Pooled windows,6.0,8.0,0,0.0
+200,Pooled windows,6.0,8.0,0,0.0
+52,Pooled windows,6.0,8.0,0,0.0
+167,Pooled windows,6.0,8.0,0,0.0
+156,Pooled windows,6.0,8.0,0,0.0
+62,Pooled windows,6.0,8.0,0,0.0
+29,Pooled windows,6.0,8.0,0,0.0
+106,Pooled windows,6.0,8.0,0,0.0
+5,Pooled windows,6.0,8.0,0,0.0
+98,Pooled windows,6.0,8.0,0,0.0
+11,Pooled windows,6.0,8.0,0,0.0
+97,Pooled windows,6.0,8.0,0,0.0
+191,Pooled windows,6.0,8.0,0,0.0
+50,Pooled windows,6.0,8.0,0,0.0
+178,Pooled windows,6.0,8.0,0,0.0
+47,Pooled windows,6.0,8.0,0,0.0
+179,Pooled windows,6.0,8.0,0,0.0
+58,Pooled windows,6.0,8.0,0,0.0
+82,Pooled windows,6.0,8.0,0,0.0
+77,Pooled windows,6.0,8.0,0,0.0
+43,Pooled windows,6.0,8.0,0,0.0
+112,Pooled windows,6.0,8.0,0,0.0
+142,Pooled windows,6.0,8.0,0,0.0
+114,Pooled windows,6.0,8.0,0,0.0
+128,Pooled windows,6.0,8.0,0,0.0
+28,Pooled windows,6.0,8.0,0,0.0
+149,Pooled windows,6.0,8.0,0,0.0
+71,Pooled windows,6.0,8.0,0,0.0
+104,Pooled windows,6.0,8.0,0,0.0
+72,Pooled windows,6.0,8.0,0,0.0
+42,Pooled windows,6.0,8.0,0,0.0
+53,Pooled windows,6.0,8.0,0,0.0
+17,Pooled windows,6.0,8.0,0,0.0
+147,Pooled windows,6.0,8.0,0,0.0
+150,Pooled windows,6.0,8.0,0,0.0
+80,Pooled windows,6.0,8.0,0,0.0
+135,Pooled windows,6.0,8.0,0,0.0
+194,Pooled windows,6.0,8.0,0,0.0
+186,Pooled windows,6.0,8.0,0,0.0
+133,Pooled windows,6.0,8.0,0,0.0
+192,Pooled windows,6.0,8.0,0,0.0
+131,Pooled windows,6.0,8.0,0,0.0
+184,Pooled windows,6.0,8.0,0,0.0
+180,Pooled windows,6.0,8.0,0,0.0
+139,Pooled windows,6.0,8.0,0,0.0
+132,Pooled windows,6.0,8.0,0,0.0
+181,Pooled windows,6.0,8.0,0,0.0
+75,Pooled windows,6.0,8.0,0,0.0
+70,Pooled windows,6.0,8.0,0,0.0
+109,"Episode, flat scale",0.25,0.0,0,1.0
+56,"Episode, flat scale",0.25,0.0,0,1.0
+172,"Episode, flat scale",0.25,0.0,0,1.0
+99,"Episode, flat scale",0.25,0.0,0,1.0
+2,"Episode, flat scale",0.25,0.0,0,1.0
+44,"Episode, flat scale",0.25,0.0,0,1.0
+95,"Episode, flat scale",0.25,0.0,0,1.0
+189,"Episode, flat scale",0.25,0.0,0,1.0
+185,"Episode, flat scale",0.25,0.0,0,1.0
+24,"Episode, flat scale",0.25,0.0,0,1.0
+25,"Episode, flat scale",0.25,0.0,0,1.0
+31,"Episode, flat scale",0.25,0.0,0,1.0
+200,"Episode, flat scale",0.25,0.0,0,1.0
+52,"Episode, flat scale",0.25,0.0,0,1.0
+167,"Episode, flat scale",0.25,0.0,0,1.0
+156,"Episode, flat scale",0.25,0.0,0,1.0
+62,"Episode, flat scale",0.25,0.0,0,1.0
+29,"Episode, flat scale",0.25,0.0,0,1.0
+106,"Episode, flat scale",0.25,0.0,0,1.0
+5,"Episode, flat scale",0.25,0.0,0,1.0
+98,"Episode, flat scale",0.25,0.0,0,1.0
+11,"Episode, flat scale",0.25,0.0,0,1.0
+97,"Episode, flat scale",0.25,0.0,0,1.0
+191,"Episode, flat scale",0.25,0.0,0,1.0
+50,"Episode, flat scale",0.25,0.0,0,1.0
+178,"Episode, flat scale",0.25,0.0,0,1.0
+47,"Episode, flat scale",0.25,0.0,0,1.0
+179,"Episode, flat scale",0.25,0.0,0,1.0
+58,"Episode, flat scale",0.25,0.0,0,1.0
+82,"Episode, flat scale",0.25,0.0,0,1.0
+77,"Episode, flat scale",0.25,0.0,0,1.0
+43,"Episode, flat scale",0.25,0.0,0,1.0
+112,"Episode, flat scale",0.25,0.0,0,1.0
+142,"Episode, flat scale",0.25,0.0,0,1.0
+114,"Episode, flat scale",0.25,0.0,0,1.0
+128,"Episode, flat scale",0.25,0.0,0,1.0
+28,"Episode, flat scale",0.25,0.0,0,1.0
+149,"Episode, flat scale",0.25,0.0,0,1.0
+71,"Episode, flat scale",0.25,0.0,0,1.0
+104,"Episode, flat scale",0.25,0.0,0,1.0
+72,"Episode, flat scale",0.25,0.0,0,1.0
+42,"Episode, flat scale",0.25,0.0,0,1.0
+53,"Episode, flat scale",0.25,0.0,0,1.0
+17,"Episode, flat scale",0.25,0.0,0,1.0
+147,"Episode, flat scale",0.25,0.0,0,1.0
+150,"Episode, flat scale",0.25,0.0,0,1.0
+80,"Episode, flat scale",0.25,0.0,0,1.0
+135,"Episode, flat scale",0.25,0.0,0,1.0
+194,"Episode, flat scale",0.25,0.0,0,1.0
+186,"Episode, flat scale",0.25,0.0,0,1.0
+133,"Episode, flat scale",0.25,0.0,0,1.0
+192,"Episode, flat scale",0.25,0.0,0,1.0
+131,"Episode, flat scale",0.25,0.0,0,1.0
+184,"Episode, flat scale",0.25,0.0,0,1.0
+180,"Episode, flat scale",0.25,0.0,0,1.0
+139,"Episode, flat scale",0.25,0.0,0,1.0
+132,"Episode, flat scale",0.25,0.0,0,1.0
+181,"Episode, flat scale",0.25,0.0,0,1.0
+75,"Episode, flat scale",0.25,0.0,0,1.0
+70,"Episode, flat scale",0.25,0.0,0,1.0
+109,"Episode, flat scale",0.5,0.0,0,1.0
+56,"Episode, flat scale",0.5,0.0,0,1.0
+172,"Episode, flat scale",0.5,0.0,0,1.0
+99,"Episode, flat scale",0.5,0.0,0,1.0
+2,"Episode, flat scale",0.5,0.0,0,1.0
+44,"Episode, flat scale",0.5,0.0,0,1.0
+95,"Episode, flat scale",0.5,0.0,0,1.0
+189,"Episode, flat scale",0.5,0.0,0,1.0
+185,"Episode, flat scale",0.5,0.0,0,1.0
+24,"Episode, flat scale",0.5,0.0,0,1.0
+25,"Episode, flat scale",0.5,0.0,0,1.0
+31,"Episode, flat scale",0.5,0.0,0,1.0
+200,"Episode, flat scale",0.5,0.0,0,1.0
+52,"Episode, flat scale",0.5,0.0,0,1.0
+167,"Episode, flat scale",0.5,0.0,0,1.0
+156,"Episode, flat scale",0.5,0.0,0,1.0
+62,"Episode, flat scale",0.5,0.0,0,1.0
+29,"Episode, flat scale",0.5,0.0,0,1.0
+106,"Episode, flat scale",0.5,0.0,0,1.0
+5,"Episode, flat scale",0.5,0.0,0,1.0
+98,"Episode, flat scale",0.5,0.0,0,1.0
+11,"Episode, flat scale",0.5,0.0,0,1.0
+97,"Episode, flat scale",0.5,0.0,0,1.0
+191,"Episode, flat scale",0.5,0.0,0,1.0
+50,"Episode, flat scale",0.5,0.0,0,1.0
+178,"Episode, flat scale",0.5,0.0,0,1.0
+47,"Episode, flat scale",0.5,0.0,0,1.0
+179,"Episode, flat scale",0.5,0.0,0,1.0
+58,"Episode, flat scale",0.5,0.0,0,1.0
+82,"Episode, flat scale",0.5,0.0,0,1.0
+77,"Episode, flat scale",0.5,0.0,0,1.0
+43,"Episode, flat scale",0.5,0.0,0,1.0
+112,"Episode, flat scale",0.5,0.0,0,1.0
+142,"Episode, flat scale",0.5,0.0,0,1.0
+114,"Episode, flat scale",0.5,0.0,0,1.0
+128,"Episode, flat scale",0.5,0.0,0,1.0
+28,"Episode, flat scale",0.5,0.0,0,1.0
+149,"Episode, flat scale",0.5,0.0,0,1.0
+71,"Episode, flat scale",0.5,0.0,0,1.0
+104,"Episode, flat scale",0.5,0.0,0,1.0
+72,"Episode, flat scale",0.5,0.0,0,1.0
+42,"Episode, flat scale",0.5,0.0,0,1.0
+53,"Episode, flat scale",0.5,0.0,0,1.0
+17,"Episode, flat scale",0.5,0.0,0,1.0
+147,"Episode, flat scale",0.5,0.0,0,1.0
+150,"Episode, flat scale",0.5,0.0,0,1.0
+80,"Episode, flat scale",0.5,0.0,0,1.0
+135,"Episode, flat scale",0.5,0.0,0,1.0
+194,"Episode, flat scale",0.5,0.0,0,1.0
+186,"Episode, flat scale",0.5,0.0,0,1.0
+133,"Episode, flat scale",0.5,0.0,0,1.0
+192,"Episode, flat scale",0.5,0.0,0,1.0
+131,"Episode, flat scale",0.5,0.0,0,1.0
+184,"Episode, flat scale",0.5,0.0,0,1.0
+180,"Episode, flat scale",0.5,0.0,0,1.0
+139,"Episode, flat scale",0.5,0.0,0,1.0
+132,"Episode, flat scale",0.5,0.0,0,1.0
+181,"Episode, flat scale",0.5,0.0,0,1.0
+75,"Episode, flat scale",0.5,0.0,0,1.0
+70,"Episode, flat scale",0.5,0.0,0,1.0
+109,"Episode, flat scale",1.0,0.0,0,1.0
+56,"Episode, flat scale",1.0,0.0,0,1.0
+172,"Episode, flat scale",1.0,0.0,0,1.0
+99,"Episode, flat scale",1.0,0.0,0,1.0
+2,"Episode, flat scale",1.0,0.0,0,1.0
+44,"Episode, flat scale",1.0,0.0,0,1.0
+95,"Episode, flat scale",1.0,0.0,0,1.0
+189,"Episode, flat scale",1.0,0.0,0,1.0
+185,"Episode, flat scale",1.0,0.0,0,1.0
+24,"Episode, flat scale",1.0,0.0,0,1.0
+25,"Episode, flat scale",1.0,0.0,0,1.0
+31,"Episode, flat scale",1.0,0.0,0,1.0
+200,"Episode, flat scale",1.0,0.0,0,1.0
+52,"Episode, flat scale",1.0,0.0,0,1.0
+167,"Episode, flat scale",1.0,0.0,0,1.0
+156,"Episode, flat scale",1.0,0.0,0,1.0
+62,"Episode, flat scale",1.0,0.0,0,1.0
+29,"Episode, flat scale",1.0,0.0,0,1.0
+106,"Episode, flat scale",1.0,0.0,0,1.0
+5,"Episode, flat scale",1.0,0.0,0,1.0
+98,"Episode, flat scale",1.0,0.0,0,1.0
+11,"Episode, flat scale",1.0,0.0,0,1.0
+97,"Episode, flat scale",1.0,0.0,0,1.0
+191,"Episode, flat scale",1.0,0.0,0,1.0
+50,"Episode, flat scale",1.0,0.0,0,1.0
+178,"Episode, flat scale",1.0,0.0,0,1.0
+47,"Episode, flat scale",1.0,0.0,0,1.0
+179,"Episode, flat scale",1.0,0.0,0,1.0
+58,"Episode, flat scale",1.0,0.0,0,1.0
+82,"Episode, flat scale",1.0,0.0,0,1.0
+77,"Episode, flat scale",1.0,0.0,0,1.0
+43,"Episode, flat scale",1.0,0.0,0,1.0
+112,"Episode, flat scale",1.0,0.0,0,1.0
+142,"Episode, flat scale",1.0,0.0,0,1.0
+114,"Episode, flat scale",1.0,0.0,0,1.0
+128,"Episode, flat scale",1.0,0.0,0,1.0
+28,"Episode, flat scale",1.0,0.0,0,1.0
+149,"Episode, flat scale",1.0,0.0,0,1.0
+71,"Episode, flat scale",1.0,0.0,0,1.0
+104,"Episode, flat scale",1.0,0.0,0,1.0
+72,"Episode, flat scale",1.0,0.0,0,1.0
+42,"Episode, flat scale",1.0,0.0,0,1.0
+53,"Episode, flat scale",1.0,0.0,0,1.0
+17,"Episode, flat scale",1.0,0.0,0,1.0
+147,"Episode, flat scale",1.0,0.0,0,1.0
+150,"Episode, flat scale",1.0,0.0,0,1.0
+80,"Episode, flat scale",1.0,0.0,0,1.0
+135,"Episode, flat scale",1.0,0.0,0,1.0
+194,"Episode, flat scale",1.0,0.0,0,1.0
+186,"Episode, flat scale",1.0,0.0,0,1.0
+133,"Episode, flat scale",1.0,0.0,0,1.0
+192,"Episode, flat scale",1.0,0.0,0,1.0
+131,"Episode, flat scale",1.0,0.0,0,1.0
+184,"Episode, flat scale",1.0,0.0,0,1.0
+180,"Episode, flat scale",1.0,0.0,0,1.0
+139,"Episode, flat scale",1.0,0.0,0,1.0
+132,"Episode, flat scale",1.0,0.0,0,1.0
+181,"Episode, flat scale",1.0,0.0,0,1.0
+75,"Episode, flat scale",1.0,0.0,0,1.0
+70,"Episode, flat scale",1.0,0.0,0,1.0
+109,"Episode, flat scale",2.0,5.0,0,0.0
+56,"Episode, flat scale",2.0,5.0,0,0.0
+172,"Episode, flat scale",2.0,5.0,0,0.0
+99,"Episode, flat scale",2.0,5.0,0,0.0
+2,"Episode, flat scale",2.0,5.0,0,0.0
+44,"Episode, flat scale",2.0,5.0,0,0.0
+95,"Episode, flat scale",2.0,5.0,0,0.0
+189,"Episode, flat scale",2.0,5.0,0,0.0
+185,"Episode, flat scale",2.0,5.0,0,0.0
+24,"Episode, flat scale",2.0,5.0,0,0.0
+25,"Episode, flat scale",2.0,5.0,0,0.0
+31,"Episode, flat scale",2.0,5.0,0,0.0
+200,"Episode, flat scale",2.0,5.0,0,0.0
+52,"Episode, flat scale",2.0,5.0,0,0.0
+167,"Episode, flat scale",2.0,5.0,0,0.0
+156,"Episode, flat scale",2.0,5.0,0,0.0
+62,"Episode, flat scale",2.0,5.0,0,0.0
+29,"Episode, flat scale",2.0,5.0,0,0.0
+106,"Episode, flat scale",2.0,5.0,0,0.0
+5,"Episode, flat scale",2.0,5.0,0,0.0
+98,"Episode, flat scale",2.0,5.0,0,0.0
+11,"Episode, flat scale",2.0,5.0,0,0.0
+97,"Episode, flat scale",2.0,5.0,0,0.0
+191,"Episode, flat scale",2.0,5.0,0,0.0
+50,"Episode, flat scale",2.0,5.0,0,0.0
+178,"Episode, flat scale",2.0,5.0,0,0.0
+47,"Episode, flat scale",2.0,5.0,0,0.0
+179,"Episode, flat scale",2.0,5.0,0,0.0
+58,"Episode, flat scale",2.0,5.0,0,0.0
+82,"Episode, flat scale",2.0,5.0,0,0.0
+77,"Episode, flat scale",2.0,5.0,0,0.0
+43,"Episode, flat scale",2.0,5.0,0,0.0
+112,"Episode, flat scale",2.0,5.0,0,0.0
+142,"Episode, flat scale",2.0,5.0,0,0.0
+114,"Episode, flat scale",2.0,5.0,0,0.0
+128,"Episode, flat scale",2.0,5.0,0,0.0
+28,"Episode, flat scale",2.0,5.0,0,0.0
+149,"Episode, flat scale",2.0,5.0,1,0.0
+71,"Episode, flat scale",2.0,5.0,0,0.0
+104,"Episode, flat scale",2.0,5.0,0,0.0
+72,"Episode, flat scale",2.0,5.0,0,0.0
+42,"Episode, flat scale",2.0,5.0,0,0.0
+53,"Episode, flat scale",2.0,5.0,0,0.0
+17,"Episode, flat scale",2.0,5.0,0,0.0
+147,"Episode, flat scale",2.0,5.0,0,0.0
+150,"Episode, flat scale",2.0,5.0,0,0.0
+80,"Episode, flat scale",2.0,5.0,0,0.0
+135,"Episode, flat scale",2.0,5.0,0,0.0
+194,"Episode, flat scale",2.0,5.0,0,0.0
+186,"Episode, flat scale",2.0,5.0,0,0.0
+133,"Episode, flat scale",2.0,5.0,0,0.0
+192,"Episode, flat scale",2.0,5.0,0,0.0
+131,"Episode, flat scale",2.0,5.0,0,0.0
+184,"Episode, flat scale",2.0,5.0,0,0.0
+180,"Episode, flat scale",2.0,5.0,0,0.0
+139,"Episode, flat scale",2.0,5.0,0,0.0
+132,"Episode, flat scale",2.0,5.0,0,0.0
+181,"Episode, flat scale",2.0,5.0,0,0.0
+75,"Episode, flat scale",2.0,5.0,0,0.0
+70,"Episode, flat scale",2.0,5.0,0,0.0
+109,"Episode, flat scale",3.0,7.0,0,0.0
+56,"Episode, flat scale",3.0,7.0,0,0.0
+172,"Episode, flat scale",3.0,7.0,0,0.0
+99,"Episode, flat scale",3.0,7.0,0,0.0
+2,"Episode, flat scale",3.0,7.0,0,0.0
+44,"Episode, flat scale",3.0,7.0,0,0.0
+95,"Episode, flat scale",3.0,7.0,0,0.0
+189,"Episode, flat scale",3.0,7.0,0,0.0
+185,"Episode, flat scale",3.0,7.0,0,0.0
+24,"Episode, flat scale",3.0,7.0,0,0.0
+25,"Episode, flat scale",3.0,7.0,0,0.0
+31,"Episode, flat scale",3.0,7.0,0,0.0
+200,"Episode, flat scale",3.0,7.0,0,0.0
+52,"Episode, flat scale",3.0,7.0,0,0.0
+167,"Episode, flat scale",3.0,7.0,0,0.0
+156,"Episode, flat scale",3.0,7.0,0,0.0
+62,"Episode, flat scale",3.0,7.0,0,0.0
+29,"Episode, flat scale",3.0,7.0,0,0.0
+106,"Episode, flat scale",3.0,7.0,0,0.0
+5,"Episode, flat scale",3.0,7.0,0,0.0
+98,"Episode, flat scale",3.0,7.0,0,0.0
+11,"Episode, flat scale",3.0,7.0,0,0.0
+97,"Episode, flat scale",3.0,7.0,0,0.0
+191,"Episode, flat scale",3.0,7.0,0,0.0
+50,"Episode, flat scale",3.0,7.0,0,0.0
+178,"Episode, flat scale",3.0,7.0,0,0.0
+47,"Episode, flat scale",3.0,7.0,0,0.0
+179,"Episode, flat scale",3.0,7.0,0,0.0
+58,"Episode, flat scale",3.0,7.0,0,0.0
+82,"Episode, flat scale",3.0,7.0,0,0.0
+77,"Episode, flat scale",3.0,7.0,0,0.0
+43,"Episode, flat scale",3.0,7.0,0,0.0
+112,"Episode, flat scale",3.0,7.0,0,0.0
+142,"Episode, flat scale",3.0,7.0,0,0.0
+114,"Episode, flat scale",3.0,7.0,0,0.0
+128,"Episode, flat scale",3.0,7.0,0,0.0
+28,"Episode, flat scale",3.0,7.0,0,0.0
+149,"Episode, flat scale",3.0,7.0,1,0.0
+71,"Episode, flat scale",3.0,7.0,0,0.0
+104,"Episode, flat scale",3.0,7.0,0,0.0
+72,"Episode, flat scale",3.0,7.0,0,0.0
+42,"Episode, flat scale",3.0,7.0,0,0.0
+53,"Episode, flat scale",3.0,7.0,0,0.0
+17,"Episode, flat scale",3.0,7.0,0,0.0
+147,"Episode, flat scale",3.0,7.0,0,0.0
+150,"Episode, flat scale",3.0,7.0,0,0.0
+80,"Episode, flat scale",3.0,7.0,0,0.0
+135,"Episode, flat scale",3.0,7.0,0,0.0
+194,"Episode, flat scale",3.0,7.0,0,0.0
+186,"Episode, flat scale",3.0,7.0,0,0.0
+133,"Episode, flat scale",3.0,7.0,0,0.0
+192,"Episode, flat scale",3.0,7.0,0,0.0
+131,"Episode, flat scale",3.0,7.0,0,0.0
+184,"Episode, flat scale",3.0,7.0,0,0.0
+180,"Episode, flat scale",3.0,7.0,0,0.0
+139,"Episode, flat scale",3.0,7.0,0,0.0
+132,"Episode, flat scale",3.0,7.0,0,0.0
+181,"Episode, flat scale",3.0,7.0,0,0.0
+75,"Episode, flat scale",3.0,7.0,0,0.0
+70,"Episode, flat scale",3.0,7.0,0,0.0
+109,"Episode, flat scale",4.0,8.0,0,0.0
+56,"Episode, flat scale",4.0,8.0,0,0.0
+172,"Episode, flat scale",4.0,8.0,0,0.0
+99,"Episode, flat scale",4.0,8.0,0,0.0
+2,"Episode, flat scale",4.0,8.0,0,0.0
+44,"Episode, flat scale",4.0,8.0,0,0.0
+95,"Episode, flat scale",4.0,8.0,0,0.0
+189,"Episode, flat scale",4.0,8.0,0,0.0
+185,"Episode, flat scale",4.0,8.0,0,0.0
+24,"Episode, flat scale",4.0,8.0,0,0.0
+25,"Episode, flat scale",4.0,8.0,0,0.0
+31,"Episode, flat scale",4.0,8.0,0,0.0
+200,"Episode, flat scale",4.0,8.0,0,0.0
+52,"Episode, flat scale",4.0,8.0,0,0.0
+167,"Episode, flat scale",4.0,8.0,0,0.0
+156,"Episode, flat scale",4.0,8.0,0,0.0
+62,"Episode, flat scale",4.0,8.0,0,0.0
+29,"Episode, flat scale",4.0,8.0,0,0.0
+106,"Episode, flat scale",4.0,8.0,0,0.0
+5,"Episode, flat scale",4.0,8.0,0,0.0
+98,"Episode, flat scale",4.0,8.0,0,0.0
+11,"Episode, flat scale",4.0,8.0,0,0.0
+97,"Episode, flat scale",4.0,8.0,0,0.0
+191,"Episode, flat scale",4.0,8.0,0,0.0
+50,"Episode, flat scale",4.0,8.0,0,0.0
+178,"Episode, flat scale",4.0,8.0,0,0.0
+47,"Episode, flat scale",4.0,8.0,0,0.0
+179,"Episode, flat scale",4.0,8.0,0,0.0
+58,"Episode, flat scale",4.0,8.0,0,0.0
+82,"Episode, flat scale",4.0,8.0,0,0.0
+77,"Episode, flat scale",4.0,8.0,0,0.0
+43,"Episode, flat scale",4.0,8.0,0,0.0
+112,"Episode, flat scale",4.0,8.0,0,0.0
+142,"Episode, flat scale",4.0,8.0,0,0.0
+114,"Episode, flat scale",4.0,8.0,0,0.0
+128,"Episode, flat scale",4.0,8.0,0,0.0
+28,"Episode, flat scale",4.0,8.0,0,0.0
+149,"Episode, flat scale",4.0,8.0,0,0.0
+71,"Episode, flat scale",4.0,8.0,0,0.0
+104,"Episode, flat scale",4.0,8.0,0,0.0
+72,"Episode, flat scale",4.0,8.0,0,0.0
+42,"Episode, flat scale",4.0,8.0,0,0.0
+53,"Episode, flat scale",4.0,8.0,0,0.0
+17,"Episode, flat scale",4.0,8.0,0,0.0
+147,"Episode, flat scale",4.0,8.0,0,0.0
+150,"Episode, flat scale",4.0,8.0,0,0.0
+80,"Episode, flat scale",4.0,8.0,0,0.0
+135,"Episode, flat scale",4.0,8.0,0,0.0
+194,"Episode, flat scale",4.0,8.0,0,0.0
+186,"Episode, flat scale",4.0,8.0,0,0.0
+133,"Episode, flat scale",4.0,8.0,0,0.0
+192,"Episode, flat scale",4.0,8.0,0,0.0
+131,"Episode, flat scale",4.0,8.0,0,0.0
+184,"Episode, flat scale",4.0,8.0,0,0.0
+180,"Episode, flat scale",4.0,8.0,0,0.0
+139,"Episode, flat scale",4.0,8.0,0,0.0
+132,"Episode, flat scale",4.0,8.0,0,0.0
+181,"Episode, flat scale",4.0,8.0,0,0.0
+75,"Episode, flat scale",4.0,8.0,0,0.0
+70,"Episode, flat scale",4.0,8.0,0,0.0
+109,"Episode, flat scale",6.0,8.0,0,0.0
+56,"Episode, flat scale",6.0,8.0,0,0.0
+172,"Episode, flat scale",6.0,8.0,0,0.0
+99,"Episode, flat scale",6.0,8.0,0,0.0
+2,"Episode, flat scale",6.0,8.0,0,0.0
+44,"Episode, flat scale",6.0,8.0,0,0.0
+95,"Episode, flat scale",6.0,8.0,0,0.0
+189,"Episode, flat scale",6.0,8.0,0,0.0
+185,"Episode, flat scale",6.0,8.0,0,0.0
+24,"Episode, flat scale",6.0,8.0,0,0.0
+25,"Episode, flat scale",6.0,8.0,0,0.0
+31,"Episode, flat scale",6.0,8.0,0,0.0
+200,"Episode, flat scale",6.0,8.0,0,0.0
+52,"Episode, flat scale",6.0,8.0,0,0.0
+167,"Episode, flat scale",6.0,8.0,0,0.0
+156,"Episode, flat scale",6.0,8.0,0,0.0
+62,"Episode, flat scale",6.0,8.0,0,0.0
+29,"Episode, flat scale",6.0,8.0,0,0.0
+106,"Episode, flat scale",6.0,8.0,0,0.0
+5,"Episode, flat scale",6.0,8.0,0,0.0
+98,"Episode, flat scale",6.0,8.0,0,0.0
+11,"Episode, flat scale",6.0,8.0,0,0.0
+97,"Episode, flat scale",6.0,8.0,0,0.0
+191,"Episode, flat scale",6.0,8.0,0,0.0
+50,"Episode, flat scale",6.0,8.0,0,0.0
+178,"Episode, flat scale",6.0,8.0,0,0.0
+47,"Episode, flat scale",6.0,8.0,0,0.0
+179,"Episode, flat scale",6.0,8.0,0,0.0
+58,"Episode, flat scale",6.0,8.0,0,0.0
+82,"Episode, flat scale",6.0,8.0,0,0.0
+77,"Episode, flat scale",6.0,8.0,0,0.0
+43,"Episode, flat scale",6.0,8.0,0,0.0
+112,"Episode, flat scale",6.0,8.0,0,0.0
+142,"Episode, flat scale",6.0,8.0,0,0.0
+114,"Episode, flat scale",6.0,8.0,0,0.0
+128,"Episode, flat scale",6.0,8.0,0,0.0
+28,"Episode, flat scale",6.0,8.0,0,0.0
+149,"Episode, flat scale",6.0,8.0,0,0.0
+71,"Episode, flat scale",6.0,8.0,0,0.0
+104,"Episode, flat scale",6.0,8.0,0,0.0
+72,"Episode, flat scale",6.0,8.0,0,0.0
+42,"Episode, flat scale",6.0,8.0,0,0.0
+53,"Episode, flat scale",6.0,8.0,0,0.0
+17,"Episode, flat scale",6.0,8.0,0,0.0
+147,"Episode, flat scale",6.0,8.0,0,0.0
+150,"Episode, flat scale",6.0,8.0,0,0.0
+80,"Episode, flat scale",6.0,8.0,0,0.0
+135,"Episode, flat scale",6.0,8.0,0,0.0
+194,"Episode, flat scale",6.0,8.0,0,0.0
+186,"Episode, flat scale",6.0,8.0,0,0.0
+133,"Episode, flat scale",6.0,8.0,0,0.0
+192,"Episode, flat scale",6.0,8.0,0,0.0
+131,"Episode, flat scale",6.0,8.0,0,0.0
+184,"Episode, flat scale",6.0,8.0,0,0.0
+180,"Episode, flat scale",6.0,8.0,0,0.0
+139,"Episode, flat scale",6.0,8.0,0,0.0
+132,"Episode, flat scale",6.0,8.0,0,0.0
+181,"Episode, flat scale",6.0,8.0,0,0.0
+75,"Episode, flat scale",6.0,8.0,0,0.0
+70,"Episode, flat scale",6.0,8.0,0,0.0
+109,"Episode, graph scale",0.25,0.0,0,1.0
+56,"Episode, graph scale",0.25,0.0,0,1.0
+172,"Episode, graph scale",0.25,0.0,0,1.0
+99,"Episode, graph scale",0.25,0.0,0,1.0
+2,"Episode, graph scale",0.25,0.0,0,1.0
+44,"Episode, graph scale",0.25,0.0,0,1.0
+95,"Episode, graph scale",0.25,0.0,0,1.0
+189,"Episode, graph scale",0.25,0.0,0,1.0
+185,"Episode, graph scale",0.25,0.0,0,1.0
+24,"Episode, graph scale",0.25,0.0,0,1.0
+25,"Episode, graph scale",0.25,0.0,0,1.0
+31,"Episode, graph scale",0.25,0.0,0,1.0
+200,"Episode, graph scale",0.25,0.0,0,1.0
+52,"Episode, graph scale",0.25,0.0,0,1.0
+167,"Episode, graph scale",0.25,0.0,0,1.0
+156,"Episode, graph scale",0.25,0.0,0,1.0
+62,"Episode, graph scale",0.25,0.0,0,1.0
+29,"Episode, graph scale",0.25,0.0,0,1.0
+106,"Episode, graph scale",0.25,0.0,0,1.0
+5,"Episode, graph scale",0.25,0.0,0,1.0
+98,"Episode, graph scale",0.25,0.0,0,1.0
+11,"Episode, graph scale",0.25,0.0,0,1.0
+97,"Episode, graph scale",0.25,0.0,0,1.0
+191,"Episode, graph scale",0.25,0.0,0,1.0
+50,"Episode, graph scale",0.25,0.0,0,1.0
+178,"Episode, graph scale",0.25,0.0,0,1.0
+47,"Episode, graph scale",0.25,0.0,0,1.0
+179,"Episode, graph scale",0.25,0.0,0,1.0
+58,"Episode, graph scale",0.25,0.0,0,1.0
+82,"Episode, graph scale",0.25,0.0,0,1.0
+77,"Episode, graph scale",0.25,0.0,0,1.0
+43,"Episode, graph scale",0.25,0.0,0,1.0
+112,"Episode, graph scale",0.25,0.0,0,1.0
+142,"Episode, graph scale",0.25,0.0,0,1.0
+114,"Episode, graph scale",0.25,0.0,0,1.0
+128,"Episode, graph scale",0.25,0.0,0,1.0
+28,"Episode, graph scale",0.25,0.0,0,1.0
+149,"Episode, graph scale",0.25,0.0,0,1.0
+71,"Episode, graph scale",0.25,0.0,0,1.0
+104,"Episode, graph scale",0.25,0.0,0,1.0
+72,"Episode, graph scale",0.25,0.0,0,1.0
+42,"Episode, graph scale",0.25,0.0,0,1.0
+53,"Episode, graph scale",0.25,0.0,0,1.0
+17,"Episode, graph scale",0.25,0.0,0,1.0
+147,"Episode, graph scale",0.25,0.0,0,1.0
+150,"Episode, graph scale",0.25,0.0,0,1.0
+80,"Episode, graph scale",0.25,0.0,0,1.0
+135,"Episode, graph scale",0.25,0.0,0,1.0
+194,"Episode, graph scale",0.25,0.0,0,1.0
+186,"Episode, graph scale",0.25,0.0,0,1.0
+133,"Episode, graph scale",0.25,0.0,0,1.0
+192,"Episode, graph scale",0.25,0.0,0,1.0
+131,"Episode, graph scale",0.25,0.0,0,1.0
+184,"Episode, graph scale",0.25,0.0,0,1.0
+180,"Episode, graph scale",0.25,0.0,0,1.0
+139,"Episode, graph scale",0.25,0.0,0,1.0
+132,"Episode, graph scale",0.25,0.0,0,1.0
+181,"Episode, graph scale",0.25,0.0,0,1.0
+75,"Episode, graph scale",0.25,0.0,0,1.0
+70,"Episode, graph scale",0.25,0.0,0,1.0
+109,"Episode, graph scale",0.5,0.0,0,1.0
+56,"Episode, graph scale",0.5,0.0,0,1.0
+172,"Episode, graph scale",0.5,0.0,0,1.0
+99,"Episode, graph scale",0.5,0.0,0,1.0
+2,"Episode, graph scale",0.5,0.0,0,1.0
+44,"Episode, graph scale",0.5,0.0,0,1.0
+95,"Episode, graph scale",0.5,0.0,0,1.0
+189,"Episode, graph scale",0.5,0.0,0,1.0
+185,"Episode, graph scale",0.5,0.0,0,1.0
+24,"Episode, graph scale",0.5,0.0,0,1.0
+25,"Episode, graph scale",0.5,0.0,0,1.0
+31,"Episode, graph scale",0.5,0.0,0,1.0
+200,"Episode, graph scale",0.5,0.0,0,1.0
+52,"Episode, graph scale",0.5,0.0,0,1.0
+167,"Episode, graph scale",0.5,0.0,0,1.0
+156,"Episode, graph scale",0.5,0.0,0,1.0
+62,"Episode, graph scale",0.5,0.0,0,1.0
+29,"Episode, graph scale",0.5,0.0,0,1.0
+106,"Episode, graph scale",0.5,0.0,0,1.0
+5,"Episode, graph scale",0.5,0.0,0,1.0
+98,"Episode, graph scale",0.5,0.0,0,1.0
+11,"Episode, graph scale",0.5,0.0,0,1.0
+97,"Episode, graph scale",0.5,0.0,0,1.0
+191,"Episode, graph scale",0.5,0.0,0,1.0
+50,"Episode, graph scale",0.5,0.0,0,1.0
+178,"Episode, graph scale",0.5,0.0,0,1.0
+47,"Episode, graph scale",0.5,0.0,0,1.0
+179,"Episode, graph scale",0.5,0.0,0,1.0
+58,"Episode, graph scale",0.5,0.0,0,1.0
+82,"Episode, graph scale",0.5,0.0,0,1.0
+77,"Episode, graph scale",0.5,0.0,0,1.0
+43,"Episode, graph scale",0.5,0.0,0,1.0
+112,"Episode, graph scale",0.5,0.0,0,1.0
+142,"Episode, graph scale",0.5,0.0,0,1.0
+114,"Episode, graph scale",0.5,0.0,0,1.0
+128,"Episode, graph scale",0.5,0.0,0,1.0
+28,"Episode, graph scale",0.5,0.0,0,1.0
+149,"Episode, graph scale",0.5,0.0,0,1.0
+71,"Episode, graph scale",0.5,0.0,0,1.0
+104,"Episode, graph scale",0.5,0.0,0,1.0
+72,"Episode, graph scale",0.5,0.0,0,1.0
+42,"Episode, graph scale",0.5,0.0,0,1.0
+53,"Episode, graph scale",0.5,0.0,0,1.0
+17,"Episode, graph scale",0.5,0.0,0,1.0
+147,"Episode, graph scale",0.5,0.0,0,1.0
+150,"Episode, graph scale",0.5,0.0,0,1.0
+80,"Episode, graph scale",0.5,0.0,0,1.0
+135,"Episode, graph scale",0.5,0.0,0,1.0
+194,"Episode, graph scale",0.5,0.0,0,1.0
+186,"Episode, graph scale",0.5,0.0,0,1.0
+133,"Episode, graph scale",0.5,0.0,0,1.0
+192,"Episode, graph scale",0.5,0.0,0,1.0
+131,"Episode, graph scale",0.5,0.0,0,1.0
+184,"Episode, graph scale",0.5,0.0,0,1.0
+180,"Episode, graph scale",0.5,0.0,0,1.0
+139,"Episode, graph scale",0.5,0.0,0,1.0
+132,"Episode, graph scale",0.5,0.0,0,1.0
+181,"Episode, graph scale",0.5,0.0,0,1.0
+75,"Episode, graph scale",0.5,0.0,0,1.0
+70,"Episode, graph scale",0.5,0.0,0,1.0
+109,"Episode, graph scale",1.0,0.0,0,1.0
+56,"Episode, graph scale",1.0,0.0,0,1.0
+172,"Episode, graph scale",1.0,0.0,0,1.0
+99,"Episode, graph scale",1.0,0.0,0,1.0
+2,"Episode, graph scale",1.0,0.0,0,1.0
+44,"Episode, graph scale",1.0,0.0,0,1.0
+95,"Episode, graph scale",1.0,0.0,0,1.0
+189,"Episode, graph scale",1.0,0.0,0,1.0
+185,"Episode, graph scale",1.0,0.0,0,1.0
+24,"Episode, graph scale",1.0,0.0,0,1.0
+25,"Episode, graph scale",1.0,0.0,0,1.0
+31,"Episode, graph scale",1.0,0.0,0,1.0
+200,"Episode, graph scale",1.0,0.0,0,1.0
+52,"Episode, graph scale",1.0,0.0,0,1.0
+167,"Episode, graph scale",1.0,0.0,0,1.0
+156,"Episode, graph scale",1.0,0.0,0,1.0
+62,"Episode, graph scale",1.0,0.0,0,1.0
+29,"Episode, graph scale",1.0,0.0,0,1.0
+106,"Episode, graph scale",1.0,0.0,0,1.0
+5,"Episode, graph scale",1.0,0.0,0,1.0
+98,"Episode, graph scale",1.0,0.0,0,1.0
+11,"Episode, graph scale",1.0,0.0,0,1.0
+97,"Episode, graph scale",1.0,0.0,0,1.0
+191,"Episode, graph scale",1.0,0.0,0,1.0
+50,"Episode, graph scale",1.0,0.0,0,1.0
+178,"Episode, graph scale",1.0,0.0,0,1.0
+47,"Episode, graph scale",1.0,0.0,0,1.0
+179,"Episode, graph scale",1.0,0.0,0,1.0
+58,"Episode, graph scale",1.0,0.0,0,1.0
+82,"Episode, graph scale",1.0,0.0,0,1.0
+77,"Episode, graph scale",1.0,0.0,0,1.0
+43,"Episode, graph scale",1.0,0.0,0,1.0
+112,"Episode, graph scale",1.0,0.0,0,1.0
+142,"Episode, graph scale",1.0,0.0,0,1.0
+114,"Episode, graph scale",1.0,0.0,0,1.0
+128,"Episode, graph scale",1.0,0.0,0,1.0
+28,"Episode, graph scale",1.0,0.0,0,1.0
+149,"Episode, graph scale",1.0,0.0,0,1.0
+71,"Episode, graph scale",1.0,0.0,0,1.0
+104,"Episode, graph scale",1.0,0.0,0,1.0
+72,"Episode, graph scale",1.0,0.0,0,1.0
+42,"Episode, graph scale",1.0,0.0,0,1.0
+53,"Episode, graph scale",1.0,0.0,0,1.0
+17,"Episode, graph scale",1.0,0.0,0,1.0
+147,"Episode, graph scale",1.0,0.0,0,1.0
+150,"Episode, graph scale",1.0,0.0,0,1.0
+80,"Episode, graph scale",1.0,0.0,0,1.0
+135,"Episode, graph scale",1.0,0.0,0,1.0
+194,"Episode, graph scale",1.0,0.0,0,1.0
+186,"Episode, graph scale",1.0,0.0,0,1.0
+133,"Episode, graph scale",1.0,0.0,0,1.0
+192,"Episode, graph scale",1.0,0.0,0,1.0
+131,"Episode, graph scale",1.0,0.0,0,1.0
+184,"Episode, graph scale",1.0,0.0,0,1.0
+180,"Episode, graph scale",1.0,0.0,0,1.0
+139,"Episode, graph scale",1.0,0.0,0,1.0
+132,"Episode, graph scale",1.0,0.0,0,1.0
+181,"Episode, graph scale",1.0,0.0,0,1.0
+75,"Episode, graph scale",1.0,0.0,0,1.0
+70,"Episode, graph scale",1.0,0.0,0,1.0
+109,"Episode, graph scale",2.0,4.0,0,0.0
+56,"Episode, graph scale",2.0,5.0,0,0.0
+172,"Episode, graph scale",2.0,4.666666666666667,0,0.0
+99,"Episode, graph scale",2.0,4.666666666666667,0,0.0
+2,"Episode, graph scale",2.0,4.2,0,0.0
+44,"Episode, graph scale",2.0,4.2,0,0.0
+95,"Episode, graph scale",2.0,4.6,0,0.0
+189,"Episode, graph scale",2.0,4.6,0,0.0
+185,"Episode, graph scale",2.0,4.2,0,0.0
+24,"Episode, graph scale",2.0,4.4,0,0.0
+25,"Episode, graph scale",2.0,4.666666666666667,0,0.0
+31,"Episode, graph scale",2.0,4.0,0,0.0
+200,"Episode, graph scale",2.0,4.4,0,0.0
+52,"Episode, graph scale",2.0,4.2,0,0.0
+167,"Episode, graph scale",2.0,4.2,0,0.0
+156,"Episode, graph scale",2.0,4.4,0,0.0
+62,"Episode, graph scale",2.0,5.0,0,0.0
+29,"Episode, graph scale",2.0,5.0,0,0.0
+106,"Episode, graph scale",2.0,4.6,0,0.0
+5,"Episode, graph scale",2.0,4.8,0,0.0
+98,"Episode, graph scale",2.0,4.4,1,0.0
+11,"Episode, graph scale",2.0,4.2,1,0.0
+97,"Episode, graph scale",2.0,4.2,1,0.0
+191,"Episode, graph scale",2.0,4.833333333333333,0,0.0
+50,"Episode, graph scale",2.0,4.6,0,0.0
+178,"Episode, graph scale",2.0,4.6,0,0.0
+47,"Episode, graph scale",2.0,4.8,0,0.0
+179,"Episode, graph scale",2.0,4.6,0,0.0
+58,"Episode, graph scale",2.0,4.5,0,0.0
+82,"Episode, graph scale",2.0,4.6,0,0.0
+77,"Episode, graph scale",2.0,5.0,0,0.0
+43,"Episode, graph scale",2.0,4.4,0,0.0
+112,"Episode, graph scale",2.0,4.4,0,0.0
+142,"Episode, graph scale",2.0,4.2,1,0.0
+114,"Episode, graph scale",2.0,4.6,0,0.0
+128,"Episode, graph scale",2.0,4.2,0,0.0
+28,"Episode, graph scale",2.0,4.8,0,0.0
+149,"Episode, graph scale",2.0,4.0,1,0.0
+71,"Episode, graph scale",2.0,4.4,0,0.0
+104,"Episode, graph scale",2.0,4.833333333333333,0,0.0
+72,"Episode, graph scale",2.0,4.2,0,0.0
+42,"Episode, graph scale",2.0,4.8,0,0.0
+53,"Episode, graph scale",2.0,4.2,0,0.0
+17,"Episode, graph scale",2.0,4.0,0,0.0
+147,"Episode, graph scale",2.0,4.6,0,0.0
+150,"Episode, graph scale",2.0,4.2,0,0.0
+80,"Episode, graph scale",2.0,4.6,0,0.0
+135,"Episode, graph scale",2.0,5.0,0,0.0
+194,"Episode, graph scale",2.0,4.2,0,0.0
+186,"Episode, graph scale",2.0,4.6,0,0.0
+133,"Episode, graph scale",2.0,4.666666666666667,0,0.0
+192,"Episode, graph scale",2.0,4.833333333333333,0,0.0
+131,"Episode, graph scale",2.0,4.5,0,0.0
+184,"Episode, graph scale",2.0,4.8,0,0.0
+180,"Episode, graph scale",2.0,4.8,0,0.0
+139,"Episode, graph scale",2.0,4.4,0,0.0
+132,"Episode, graph scale",2.0,4.5,0,0.0
+181,"Episode, graph scale",2.0,4.2,0,0.0
+75,"Episode, graph scale",2.0,4.833333333333333,0,0.0
+70,"Episode, graph scale",2.0,4.8,0,0.0
+109,"Episode, graph scale",3.0,6.0,0,0.0
+56,"Episode, graph scale",3.0,7.0,0,0.0
+172,"Episode, graph scale",3.0,6.5,0,0.0
+99,"Episode, graph scale",3.0,6.666666666666667,0,0.0
+2,"Episode, graph scale",3.0,6.2,0,0.0
+44,"Episode, graph scale",3.0,6.2,0,0.0
+95,"Episode, graph scale",3.0,6.6,0,0.0
+189,"Episode, graph scale",3.0,6.6,0,0.0
+185,"Episode, graph scale",3.0,6.2,0,0.0
+24,"Episode, graph scale",3.0,6.0,0,0.0
+25,"Episode, graph scale",3.0,6.5,0,0.0
+31,"Episode, graph scale",3.0,6.0,0,0.0
+200,"Episode, graph scale",3.0,6.4,0,0.0
+52,"Episode, graph scale",3.0,6.2,0,0.0
+167,"Episode, graph scale",3.0,6.2,0,0.0
+156,"Episode, graph scale",3.0,6.4,0,0.0
+62,"Episode, graph scale",3.0,6.833333333333333,0,0.0
+29,"Episode, graph scale",3.0,7.0,0,0.0
+106,"Episode, graph scale",3.0,6.6,0,0.0
+5,"Episode, graph scale",3.0,6.8,0,0.0
+98,"Episode, graph scale",3.0,6.2,0,0.0
+11,"Episode, graph scale",3.0,6.2,0,0.0
+97,"Episode, graph scale",3.0,6.2,0,0.0
+191,"Episode, graph scale",3.0,6.666666666666667,0,0.0
+50,"Episode, graph scale",3.0,6.2,0,0.0
+178,"Episode, graph scale",3.0,6.4,0,0.0
+47,"Episode, graph scale",3.0,6.8,0,0.0
+179,"Episode, graph scale",3.0,6.6,0,0.0
+58,"Episode, graph scale",3.0,6.5,0,0.0
+82,"Episode, graph scale",3.0,6.8,0,0.0
+77,"Episode, graph scale",3.0,6.8,0,0.0
+43,"Episode, graph scale",3.0,6.4,0,0.0
+112,"Episode, graph scale",3.0,6.4,0,0.0
+142,"Episode, graph scale",3.0,6.2,1,0.0
+114,"Episode, graph scale",3.0,6.6,0,0.0
+128,"Episode, graph scale",3.0,6.2,0,0.0
+28,"Episode, graph scale",3.0,6.8,0,0.0
+149,"Episode, graph scale",3.0,6.0,0,0.0
+71,"Episode, graph scale",3.0,6.4,0,0.0
+104,"Episode, graph scale",3.0,6.5,0,0.0
+72,"Episode, graph scale",3.0,6.2,0,0.0
+42,"Episode, graph scale",3.0,6.6,0,0.0
+53,"Episode, graph scale",3.0,6.0,0,0.0
+17,"Episode, graph scale",3.0,6.0,0,0.0
+147,"Episode, graph scale",3.0,6.4,0,0.0
+150,"Episode, graph scale",3.0,6.2,0,0.0
+80,"Episode, graph scale",3.0,6.6,0,0.0
+135,"Episode, graph scale",3.0,6.8,0,0.0
+194,"Episode, graph scale",3.0,6.2,0,0.0
+186,"Episode, graph scale",3.0,6.2,0,0.0
+133,"Episode, graph scale",3.0,6.5,0,0.0
+192,"Episode, graph scale",3.0,6.666666666666667,0,0.0
+131,"Episode, graph scale",3.0,6.5,0,0.0
+184,"Episode, graph scale",3.0,6.6,0,0.0
+180,"Episode, graph scale",3.0,6.8,0,0.0
+139,"Episode, graph scale",3.0,6.2,0,0.0
+132,"Episode, graph scale",3.0,6.5,0,0.0
+181,"Episode, graph scale",3.0,6.0,0,0.0
+75,"Episode, graph scale",3.0,6.666666666666667,0,0.0
+70,"Episode, graph scale",3.0,6.4,0,0.0
+109,"Episode, graph scale",4.0,7.0,0,0.0
+56,"Episode, graph scale",4.0,7.833333333333333,0,0.0
+172,"Episode, graph scale",4.0,7.166666666666667,0,0.0
+99,"Episode, graph scale",4.0,7.333333333333333,0,0.0
+2,"Episode, graph scale",4.0,7.4,0,0.0
+44,"Episode, graph scale",4.0,7.0,0,0.0
+95,"Episode, graph scale",4.0,8.0,0,0.0
+189,"Episode, graph scale",4.0,7.6,0,0.0
+185,"Episode, graph scale",4.0,7.2,0,0.0
+24,"Episode, graph scale",4.0,7.4,0,0.0
+25,"Episode, graph scale",4.0,7.166666666666667,0,0.0
+31,"Episode, graph scale",4.0,7.4,0,0.0
+200,"Episode, graph scale",4.0,7.2,0,0.0
+52,"Episode, graph scale",4.0,7.0,0,0.0
+167,"Episode, graph scale",4.0,7.2,0,0.0
+156,"Episode, graph scale",4.0,7.6,0,0.0
+62,"Episode, graph scale",4.0,7.666666666666667,0,0.0
+29,"Episode, graph scale",4.0,7.833333333333333,0,0.0
+106,"Episode, graph scale",4.0,7.4,0,0.0
+5,"Episode, graph scale",4.0,7.4,0,0.0
+98,"Episode, graph scale",4.0,7.2,0,0.0
+11,"Episode, graph scale",4.0,6.8,0,0.0
+97,"Episode, graph scale",4.0,7.0,0,0.0
+191,"Episode, graph scale",4.0,7.5,0,0.0
+50,"Episode, graph scale",4.0,7.2,0,0.0
+178,"Episode, graph scale",4.0,7.4,0,0.0
+47,"Episode, graph scale",4.0,7.6,0,0.0
+179,"Episode, graph scale",4.0,8.0,0,0.0
+58,"Episode, graph scale",4.0,7.166666666666667,0,0.0
+82,"Episode, graph scale",4.0,8.0,0,0.0
+77,"Episode, graph scale",4.0,8.0,0,0.0
+43,"Episode, graph scale",4.0,7.4,0,0.0
+112,"Episode, graph scale",4.0,7.4,0,0.0
+142,"Episode, graph scale",4.0,6.8,0,0.0
+114,"Episode, graph scale",4.0,8.0,0,0.0
+128,"Episode, graph scale",4.0,7.0,0,0.0
+28,"Episode, graph scale",4.0,8.0,0,0.0
+149,"Episode, graph scale",4.0,7.0,0,0.0
+71,"Episode, graph scale",4.0,7.2,0,0.0
+104,"Episode, graph scale",4.0,7.5,0,0.0
+72,"Episode, graph scale",4.0,7.4,0,0.0
+42,"Episode, graph scale",4.0,8.0,0,0.0
+53,"Episode, graph scale",4.0,7.0,0,0.0
+17,"Episode, graph scale",4.0,7.2,0,0.0
+147,"Episode, graph scale",4.0,7.2,0,0.0
+150,"Episode, graph scale",4.0,7.0,0,0.0
+80,"Episode, graph scale",4.0,7.4,0,0.0
+135,"Episode, graph scale",4.0,8.0,0,0.0
+194,"Episode, graph scale",4.0,6.8,0,0.0
+186,"Episode, graph scale",4.0,7.4,0,0.0
+133,"Episode, graph scale",4.0,7.166666666666667,0,0.0
+192,"Episode, graph scale",4.0,7.333333333333333,0,0.0
+131,"Episode, graph scale",4.0,7.0,0,0.0
+184,"Episode, graph scale",4.0,7.4,0,0.0
+180,"Episode, graph scale",4.0,7.8,0,0.0
+139,"Episode, graph scale",4.0,7.2,0,0.0
+132,"Episode, graph scale",4.0,7.0,0,0.0
+181,"Episode, graph scale",4.0,7.2,0,0.0
+75,"Episode, graph scale",4.0,7.666666666666667,0,0.0
+70,"Episode, graph scale",4.0,7.6,0,0.0
+109,"Episode, graph scale",6.0,8.0,0,0.0
+56,"Episode, graph scale",6.0,8.0,0,0.0
+172,"Episode, graph scale",6.0,8.0,0,0.0
+99,"Episode, graph scale",6.0,8.0,0,0.0
+2,"Episode, graph scale",6.0,8.0,0,0.0
+44,"Episode, graph scale",6.0,8.0,0,0.0
+95,"Episode, graph scale",6.0,8.0,0,0.0
+189,"Episode, graph scale",6.0,8.0,0,0.0
+185,"Episode, graph scale",6.0,8.0,0,0.0
+24,"Episode, graph scale",6.0,8.0,0,0.0
+25,"Episode, graph scale",6.0,8.0,0,0.0
+31,"Episode, graph scale",6.0,8.0,0,0.0
+200,"Episode, graph scale",6.0,8.0,0,0.0
+52,"Episode, graph scale",6.0,8.0,0,0.0
+167,"Episode, graph scale",6.0,8.0,0,0.0
+156,"Episode, graph scale",6.0,8.0,0,0.0
+62,"Episode, graph scale",6.0,8.0,0,0.0
+29,"Episode, graph scale",6.0,8.0,0,0.0
+106,"Episode, graph scale",6.0,8.0,0,0.0
+5,"Episode, graph scale",6.0,8.0,0,0.0
+98,"Episode, graph scale",6.0,8.0,0,0.0
+11,"Episode, graph scale",6.0,8.0,0,0.0
+97,"Episode, graph scale",6.0,8.0,0,0.0
+191,"Episode, graph scale",6.0,8.0,0,0.0
+50,"Episode, graph scale",6.0,8.0,0,0.0
+178,"Episode, graph scale",6.0,8.0,0,0.0
+47,"Episode, graph scale",6.0,8.0,0,0.0
+179,"Episode, graph scale",6.0,8.0,0,0.0
+58,"Episode, graph scale",6.0,8.0,0,0.0
+82,"Episode, graph scale",6.0,8.0,0,0.0
+77,"Episode, graph scale",6.0,8.0,0,0.0
+43,"Episode, graph scale",6.0,8.0,0,0.0
+112,"Episode, graph scale",6.0,8.0,0,0.0
+142,"Episode, graph scale",6.0,8.0,0,0.0
+114,"Episode, graph scale",6.0,8.0,0,0.0
+128,"Episode, graph scale",6.0,8.0,0,0.0
+28,"Episode, graph scale",6.0,8.0,0,0.0
+149,"Episode, graph scale",6.0,8.0,0,0.0
+71,"Episode, graph scale",6.0,8.0,0,0.0
+104,"Episode, graph scale",6.0,8.0,0,0.0
+72,"Episode, graph scale",6.0,8.0,0,0.0
+42,"Episode, graph scale",6.0,8.0,0,0.0
+53,"Episode, graph scale",6.0,8.0,0,0.0
+17,"Episode, graph scale",6.0,8.0,0,0.0
+147,"Episode, graph scale",6.0,8.0,0,0.0
+150,"Episode, graph scale",6.0,8.0,0,0.0
+80,"Episode, graph scale",6.0,8.0,0,0.0
+135,"Episode, graph scale",6.0,8.0,0,0.0
+194,"Episode, graph scale",6.0,8.0,0,0.0
+186,"Episode, graph scale",6.0,8.0,0,0.0
+133,"Episode, graph scale",6.0,8.0,0,0.0
+192,"Episode, graph scale",6.0,8.0,0,0.0
+131,"Episode, graph scale",6.0,8.0,0,0.0
+184,"Episode, graph scale",6.0,8.0,0,0.0
+180,"Episode, graph scale",6.0,8.0,0,0.0
+139,"Episode, graph scale",6.0,8.0,0,0.0
+132,"Episode, graph scale",6.0,8.0,0,0.0
+181,"Episode, graph scale",6.0,8.0,0,0.0
+75,"Episode, graph scale",6.0,8.0,0,0.0
+70,"Episode, graph scale",6.0,8.0,0,0.0
